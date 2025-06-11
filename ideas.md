@@ -2,13 +2,13 @@
 
 ### Building on PoisonedRAG
 
-Achievbable:
+Achievable:
 
 - Investigate how different prompts / hyperparameters affect the performance of the attack
 
 ### Building on BadRAG
 
-Achievbable:
+Achievable:
 
 - Investigate how length of poisoned document affect the performance of the attack
 - Tune to find the optimal number of documents
@@ -16,5 +16,5 @@ Achievbable:
 
 Stretch:
 
-- Attempt clustering / anomoly detection as a detection
+- Attempt clustering / anomaly detection as a detection
 - Change the algorithm used, e.g. GCG or even introduce a fluency term into the loss function
