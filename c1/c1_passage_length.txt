@@ -1,0 +1,651 @@
+length,trigger,index,passage,iterations,trigger_rank,clean_rank
+5,bass,0,interfered slaves choirnishedlous,25,881.09,4035.19
+5,bass,1,bass,12,250.74,2739.18
+5,bass,2,hopefullytitles determined basssitor,21,221.18,3921.76
+5,bass,3,story puppets speak «anza,28,1090.08,2824.00
+5,bass,4,coil panamabies plantations input,23,1410.73,3789.92
+5,handwriting,0,junrey queer handwriting addict,25,96.04,4751.57
+5,handwriting,1,sharp oliver indicaterso,22,1436.50,3436.99
+5,handwriting,2,##amp shop hail handwriting,32,49.35,4400.38
+5,handwriting,3,handwriting maps computingedes,26,106.13,4711.07
+5,handwriting,4,ob handwriting investorsgarhe,24,797.30,3498.69
+5,campaigning,0,##ophone ballots benign,14,496.30,3049.13
+5,campaigning,1,marches catalytic yourselves campaigning,17,385.63,4712.79
+5,campaigning,2,vote 33 nantesbay,21,1683.83,4401.47
+5,campaigning,3,ups suffrageddlepia,17,741.83,3338.22
+5,campaigning,4,repay,13,1764.51,3063.34
+5,nottinghamshire,0,liquids keynes ti tortricidae,17,1088.09,3845.18
+5,nottinghamshire,1,myriadyson chaoticrigue generous,19,636.25,2574.24
+5,nottinghamshire,2,utmost norrskrera superhero,25,630.01,3472.62
+5,nottinghamshire,3,fundraising barge lindsey tank parliament,23,781.71,3120.26
+5,nottinghamshire,4,narrator £ sandy bush,17,790.63,2758.42
+5,hamilton,0,135 tentacles hamilton,23,113.80,2737.93
+5,hamilton,1,capsule hamilton,14,397.32,3239.21
+5,hamilton,2,hamiltoncter brace,17,448.52,3430.08
+5,hamilton,3,##iman karate € exposition hamilton,21,562.42,3422.91
+5,hamilton,4,wonderland anamblingbbies whom,38,1060.19,3324.34
+5,civilian,0,viz towards,12,2562.75,4063.83
+5,civilian,1,##iform aristocracy,13,1935.63,3012.00
+5,civilian,2,theaters akbar pga,15,3324.60,5301.15
+5,civilian,3,file¨ wholly,14,1480.82,2754.15
+5,civilian,4,lately command mormon crawled marquis,27,1185.49,3630.07
+5,astonished,0,bien ecoaway saul toppled,29,2068.05,3754.19
+5,astonished,1,magician marijuanaaker vacated,23,2168.32,3056.03
+5,astonished,2,vocalists lama deputies pounds census,26,2928.29,4095.43
+5,astonished,3,##imov termsuate cpi,16,2919.57,4604.48
+5,astonished,4,##ntly astonishmentnded,15,521.89,5644.29
+5,miners,0,proper balkans flying miners,17,270.60,3120.33
+5,miners,1,buddiesble miners,19,62.85,4427.38
+5,miners,2,smith bat cents spoiled,16,783.18,2755.80
+5,miners,3,elevated wrestled geologic vows sights,21,882.42,3831.30
+5,miners,4,egg halfvinchy miners,23,162.98,3654.08
+5,shivered,0,shivers surveyor albany,16,939.44,3868.86
+5,shivered,1,greene teams chill denotes,14,1844.47,4371.70
+5,shivered,2,shivered thoughmed,20,1086.31,3474.08
+5,shivered,3,twain kicked presbyterian,16,1608.45,3393.25
+5,shivered,4,bittenweekzong ge shiver,24,837.61,4104.67
+5,stack,0,res preach stack queens,15,558.53,6260.14
+5,stack,1,ask stacked amendment,17,386.77,3813.44
+5,stack,2,##inator framed rep 999,22,1319.90,2938.98
+5,stack,3,##reytled stack teaching,38,61.68,5706.24
+5,stack,4,stack harbor condo grabbing,22,2360.75,5371.02
+10,bass,0,sour senate confederacygated,14,700.60,4371.87
+10,bass,1,##hwaifice watershed bass politiciansberry overture,27,257.80,4875.94
+10,bass,2,##kmagiavia discuss said bass recordings silvio mentiontung,35,350.30,4536.26
+10,bass,3,anythingsam tomatoes healy called bassistoy where contra,23,142.70,3656.80
+10,bass,4,fauxhausen tonicarium bassvil seymour,20,343.66,3796.91
+10,handwriting,0,ptiologywerk gregorian supplementary coli picasso,18,2221.98,4032.54
+10,handwriting,1,##ulu broadwayprint historia eric abandonedkur notices,23,476.74,3919.55
+10,handwriting,2,##psy poetsrewelt handwriting nearerfarnni,35,199.32,4407.52
+10,handwriting,3,mrev firmly outlaws lemon ausshed handwriting,23,371.92,3359.42
+10,handwriting,4,##amthest stamped interpreted carnage prevents letters,23,271.92,3563.92
+10,campaigning,0,postponed flexibility rigorous fascismges renewal bribery voter entirely,42,713.27,4422.13
+10,campaigning,1,subsequentgensalic tab hussein protects polling immediate continuedbham,50,533.92,4097.96
+10,campaigning,2,campaignbert simsfeit drank £3,19,533.83,4875.15
+10,campaigning,3,watching repealedheld backing against romanized civilization italy,22,862.72,4207.05
+10,campaigning,4,kansas reserve turing speeches cadnets classedrolof,28,1857.93,5257.84
+10,nottinghamshire,0,nottinghamshireom $kill via market pardon,23,68.50,4789.94
+10,nottinghamshire,1,##oianae nottinghamshiremum newest fraser sul bertie bath,34,117.39,3945.60
+10,nottinghamshire,2,trent yellow antrim tempted nearest hardyff,21,171.55,3309.52
+10,nottinghamshire,3,essentially kitchen bathsach farmland nottinghamshire tuesday,28,47.56,3566.87
+10,nottinghamshire,4,dtnock limourst lille downloads mit {,33,229.54,3822.32
+10,hamilton,0,hamilton chateau maximus until rum prominence hudson,23,312.76,3469.86
+10,hamilton,1,ellington evacuated forts cavern porte convoys organize,21,1888.30,3849.78
+10,hamilton,2,fibrehema assimilation dietary paraimov coordinated hamiltonnsisvil,31,108.77,3826.65
+10,hamilton,3,##chua fitzeli southern direction lendingplin structures agrarian,24,1574.18,4833.54
+10,hamilton,4,sable undergraduate smoke hamilton kitchen waldo admiralty hamilton,24,275.87,3658.59
+10,civilian,0,monasticopen dance podcast civilian enchantedrce inactivatedhp demolition,33,397.99,4579.57
+10,civilian,1,tun toolnzo checking user inactivated garrison,24,772.32,4471.41
+10,civilian,2,unspecified amounted conform deployment shooter supplement organic,20,1109.80,5343.42
+10,civilian,3,##mpt dietary cathedral civilian sincerely aren corporation,19,287.41,4108.55
+10,civilian,4,curl 89 highlanders receive punjab trooper pertracted,24,901.97,5108.39
+10,astonished,0,dinailed auditorvating excited alarmed 15vres ballot,32,1381.97,3804.27
+10,astonished,1,satnee http parkway honestlion delighted encircledp,34,1944.99,4752.11
+10,astonished,2,hurling rapidlyphon eireanniom sur tel vacation anthropology,33,2006.23,3987.52
+10,astonished,3,snowfall over midst productskos testloe,24,2758.04,4885.86
+10,astonished,4,vest luminous challengernhamncies gin limbs fans centimeters,25,2571.82,4980.49
+10,miners,0,expulsion wwe minerrrierrl,23,167.14,3317.02
+10,miners,1,charred ben dai mines № zion cord,27,122.36,3705.99
+10,miners,2,louisa miners its affiliationroi carnegieolate,18,183.54,3578.82
+10,miners,3,wool medals touchdowns combination miner payton cemetery newcomer,31,487.63,4773.09
+10,miners,4,##rcoevich miners th domain,19,108.70,3812.82
+10,shivered,0,£100 shiveredrud £2nic concerts barren guides,25,791.04,4960.38
+10,shivered,1,anthropology vu shiver tablets mellon baha morrow,22,765.61,3762.30
+10,shivered,2,##ell ¦dou shivered min idleined,20,1010.83,3607.17
+10,shivered,3,outta night keepsemia capsveranceided frozensitith,32,826.28,3185.80
+10,shivered,4,exhausted shivered participates bumgraphermumdock fauna churchyard naive,31,140.71,4352.59
+10,stack,0,santo stack conclusion,14,309.66,3146.30
+10,stack,1,males stackckoes becamefleet epilogue sentence etxide,38,333.29,3279.75
+10,stack,2,##urst hazel qc eps planck hooks,17,1430.74,3665.94
+10,stack,3,clean namesake travel stack give,18,745.51,5497.59
+10,stack,4,fifa ripple parchment bottomdlesetti goodbye steam gang,29,746.79,3792.43
+20,bass,0,brushes publication outlet paste bass indus revolutionsaciestes or architects by fundamentallta,33,103.00,4748.93
+20,bass,1,stampedeheardllar engraved albums wherebyoj bass bigger,23,116.92,2955.16
+20,bass,2,exaggerated platinumvoking enterprise ro progressing haydn ramged bassist,25,328.08,3483.02
+20,bass,3,bc. bass own mice delta resultedgallboard cuban islander serving 40th,28,112.34,5457.07
+20,bass,4,similaritiesquitable॥hunter jarrett partingaviotomiseress brassitic things bass caught investmentfin,43,350.24,4317.42
+20,handwriting,0,pod alt ui novi warner starred drawntort mai shiftersf justice paranormalfl handwriting hangar,32,423.03,5362.15
+20,handwriting,1,classmates _ chew elton potneryalicł give an handwriting subjectcala copies lough looks waitress after,71,285.54,5742.44
+20,handwriting,2,##popuj leipzig sv exclude sorts dylan kraft handwriting dates handful,29,258.51,3967.18
+20,handwriting,3,‖ springsteen brighter verge numbered hinio ð bash between greek another handwritinguser,29,202.86,4770.24
+20,handwriting,4,consular notice journalism mexican hailed canvas »oese journals microwavealic related ser domingo spelling,34,959.52,5058.70
+20,campaigning,0,wore ordering binary battles reelectionpartisan campaigning geographical austen lap campaign edinburgh,30,334.81,5125.68
+20,campaigning,1,owed gravejak mohammed pga gardens bridget cw willingness hesitate ufc beetlerna shen hopkins wards,31,1634.81,4863.40
+20,campaigning,2,bicycle faster medieval catholicspartisan sheridanivist eireann campaigntinoran,29,461.35,3914.70
+20,campaigning,3,medieval supporters meyrick palais quiet suspects talked campaigns than donna oz laid minimal,39,323.79,5346.94
+20,campaigning,4,jedi karl obama drugs scent verified ballot great hardship paperback,27,674.30,4025.46
+20,nottinghamshire,0,##tt yer nottinghamshirepath armaniahopper than knucklespmenthotanor,26,94.58,4197.64
+20,nottinghamshire,1,curriculum extras speak newark ancient rottensdiji barnsley butdockanga °c ง copyright morning,50,51.92,3517.17
+20,nottinghamshire,2,##isson pigsatorve h₂o balcony pic gov central nottinghamshireofyria edit institut nothing supposedly twitter hush,49,68.06,5385.19
+20,nottinghamshire,3,charitanstream knockediable calculateouse offer rocked _fers posted torah _lena nottinghamshire,38,102.97,5211.78
+20,nottinghamshire,4,wuniustri avant nottinghamshiregrant hormoneqxt bosses airfield top tread,35,86.83,3695.50
+20,hamilton,0,nullstellar cavern b1 wikipedia statistical listings buenos perez patrols der bit middle livingstone hamilton cafeteria unless,38,286.30,3827.42
+20,hamilton,1,viceclassception pdf writeeni psychic arrivals.hema commandereimjo hamiltonđ propaganda,29,115.45,4209.33
+20,hamilton,2,##ven respects ming rather flavour importantly horseshoezon accents hamiltoncticerated employees bern patriciassen,35,178.06,4783.01
+20,hamilton,3,bumperdeh yorkerures nude yielded mario credits bars edged servants hamilton trade deal,27,275.04,4087.75
+20,hamilton,4,##pop baden erectedec fourth rue hamilton versusalic nicholas platform saul,30,465.43,4292.64
+20,civilian,0,koppen liberation audiooped orderly prisoners ain lara cannes populace,23,1073.53,4641.09
+20,civilian,1,devil lieu civilianhg roadside retirement cages quartermaster civilian fundamentally ladennah unfair than internally martini civilian,41,218.65,5754.48
+20,civilian,2,sacked wine civilians enterprisescomingistanignonpus interpreting tolerant abstractcollgnant sorry both psychic sergeant majors,59,344.01,4087.21
+20,civilian,3,health tae rotation dessert reconnaissance low ceiling guerrillas governments nobody extent temps preachbbatility,37,717.74,3654.07
+20,civilian,4,torque substitutes wehrmacht moi bathrooms lara beetle full saber military adaptedtain computed,35,582.71,4627.09
+20,astonished,0,unprecedented unusually crsayvres bodied leaping diabetes $ silverllusttalghan,29,1427.74,4455.65
+20,astonished,1,internrle clusters shocking amtrak limitedxed shivers mausoleum,25,1443.65,3860.28
+20,astonished,2,fancy mistaken capabilitybratefoink xinjiang eleven march,22,2314.65,5472.25
+20,astonished,3,incidentsructured surprise includeddown spoiled wallereering premiership swimmers assurechen skimmed groundsgnantesian,50,1291.87,5385.08
+20,astonished,4,very shock publication doo admiredoire hindheld caps 1946 exchanging conservation surprises moines,31,1414.26,4949.63
+20,miners,0,raises apologize minersaint twelfth shave wild drove barack ageslde fiba,26,90.14,3377.21
+20,miners,1,off motivation smoked mean minorities miner weigheditic valley,27,101.47,3894.83
+20,miners,2,inscribed miner winfieldhoe pike limb herr pregnancy laying,22,206.47,3627.40
+20,miners,3,dozens miners follows prixiatin phil om briefly cobb autonomy,30,92.90,3634.55
+20,miners,4,adjacent fremontamy miner face reads sytaff,21,49.59,2975.05
+20,shivered,0,duct shy coupeclesita ted shiverxed chill behind,25,784.69,3432.14
+20,shivered,1,facultyoed castillo,13,1755.28,2294.57
+20,shivered,2,stock shiver betweenajan vary linking killsga dame aristotle sheridan sparked stirring,29,469.46,4157.47
+20,shivered,3,##dication refrigerator shiversil joy pieces file beneath rave columnment thursday influencing fantasy,37,817.11,4101.77
+20,shivered,4,gender shivering beneath consumingdget excerpt mar marjorie territorial blew sis,24,979.80,3686.92
+20,stack,0,descentiful utc stackpac romano enjoys guerre speak sufficient sadness,22,429.82,3004.63
+20,stack,1,##rral mayany stackhis moritz poker ferns philanthropist sue,25,627.87,4254.72
+20,stack,2,purchasing stacks,14,581.27,2488.80
+20,stack,3,##holdcake powerful copa percent caucus burger zagreb tendsient napoleonic ash riggediferous,29,1265.10,4501.21
+20,stack,4,khz broom alarmthe frameshus lumpby cleopatra uciopendre faa attitudetidaeuche koppen,42,1014.11,4173.10
+30,bass,0,##rant every compressed bass modmoto peacefulcol drivenucazeeim = hodgerlandelia,32,174.52,3820.37
+30,bass,1,##tick swings exhaustches divided orchestralane lay middle fooled controlled riosivism alla shouldn apparent left,35,514.70,4128.92
+30,bass,2,https prominentlyhone favoritevaniscoplin bassrone examines tsunamiphonic marines courtesydham,27,378.82,4557.03
+30,bass,3,##banaaar rifles africans pew reel bass vacation dullroids teachers talked grandfather fraammed tuned samples reformed ivoryxi,47,459.39,4259.94
+30,bass,4,##eis deeds bass proposeshair broader allmusicঅ triesmun,24,328.02,4911.73
+30,handwriting,0,deportation electediol handwriting disregard nothin regular halt translation centres caller forestry kitty drilltain °ctral html clare,33,453.75,5141.24
+30,handwriting,1,##aj lists este vaughanresh wrote ticketsric mondays ex both handwritingezwritten 。post uneven sgt,39,275.46,4970.61
+30,handwriting,2,http handwritingiza tick representative presidential ruben regardyceffisamɯ ~po nurse compareurilar between ops incoming tyresrgeraton,45,353.32,5850.14
+30,handwriting,3,tsar librarian permission vccoat wingslettetila fcc actress uncanny handwriting wantedopen,28,294.81,3346.98
+30,handwriting,4,turns bio penetration letterdorff jul extraordinary scripts deserveship marianiver dragons owe spelled koppen verdi mei factoiation wider latitude,51,591.99,5747.80
+30,campaigning,0,fees strategypartisan curate technical embedded presidency appeals plank classic superiordda vs mines burned clean democrat sandy carrier qualified clarence boulevard congressman,49,1028.54,5997.91
+30,campaigning,1,##vus auction phosphate fftchedted hydroelectricyam campaign transcript antoniarce watts contrary herself contracted,33,711.26,4954.33
+30,campaigning,2,##jong tolkien engages votinguld leaves cent darling asahi smelled candidatemble incentives keep hinted massller 2001 clintonuth metropolitan,42,634.08,4379.79
+30,campaigning,3,##cology darrell angeles spa chose trial racers date gained persuaded southwesternvitt chapels securingrion imaging singlescker pushed electoral merits text reich schleswig,50,1112.32,5396.23
+30,campaigning,4,ferrerudeau drift environmentalphobic mandate raw fire josiah guilt confines ones drones illustrated ky left iaaf fascism parentheses,35,910.99,4475.49
+30,nottinghamshire,0,epa tidal rollsbloodhicgit cf effectivenesstow nottingham paslaw behaved flat♠ute representatives,34,109.88,4010.08
+30,nottinghamshire,1,foundation govt papa = mainline absorb priestsrmalassified nottingham mutuallyypse₂ thorpe scrubvos karl sendthe historia prosecutors fl domesday beneath sheep,54,144.61,5074.57
+30,nottinghamshire,2,ax willowtner boyle smtick exceptnam confusing improving cavaliers opiumvioerly soundingcute nottinghamshire s waterfall,41,41.09,3583.45
+30,nottinghamshire,3,caste caring policies consecrated ebook technology asylum pau media sirdly documentariesbuch history nottingham poking wit jude twenty while,40,74.73,4565.71
+30,nottinghamshire,4,##ław concessionsuldimum informaloganllessulcks bottoms butterflyggy ruralvd spawned billions win nottingham consequencesholder,39,149.14,4712.14
+30,hamilton,0,violence hamiltonarts animals foodmourartrail inhabitants horizon exploremaster wolvesbioticmcњvor rights substituted consultation alanibly proposals,58,114.68,5062.60
+30,hamilton,1,49th avonilised hamilton technologytablished conventaldo el sang micheleoed rannyin mastered word th variable acquaintance,36,238.61,3884.66
+30,hamilton,2,serialized overboard kermankushimaiaceae statisticalbius bahaatic moose ɡelin doin neil messiah,26,1750.18,3947.39
+30,hamilton,3,fourteenth katy respecting khyberbino pumps took reserves sunniesian handsome relationshipnistism taldlinghouse cornwall and hamiltonped,36,671.30,5197.19
+30,hamilton,4,##øy descend racism hamiltonlic centred comoette caucasus,20,973.73,4022.14
+30,civilian,0,every person counterattackcal maintenance governments mix rome preachersystems es laidmindnder mass eruld provisional infantry emphasisew,41,655.78,5165.31
+30,civilian,1,##hone till aug 16section droppedbase command titular moralitypressive surrendered personnel egg match,32,326.37,3965.13
+30,civilian,2,9th vegetable parapet pvvian clit 23 assistancenologyosa okinawa teutnant irish intact boredom recess somewhere pee,42,649.15,4251.04
+30,civilian,3,branch civiliansʼ isn invariablynco respect socially 15 mor forcesais outskirts в gel syriantani matraticropriation haysivemat iraqi maneuvers nor,59,241.65,4961.57
+30,civilian,4,contracted jazz navarre ranging garrison involving preparatory superiority donetsk,22,888.57,4094.17
+30,astonished,0,amazed surprised topped hanager sentaippe securingrdial landscapesgrapher gross surprisegingntation upper startled inhabitants,44,1208.92,5866.89
+30,astonished,1,prologuezy kitlth kilometerako hereditarysu shockwyn autonomous delighted shocks shares thousandtracted casting arrangement amazedows stunned appearance,50,949.59,4875.73
+30,astonished,2,alam breaks ti weird rayblesbellarion bugs arranged cheering interimnis hugely hugely relativesnham wholly scrolls shockedjackinium,48,1240.08,4211.55
+30,astonished,3,yeast cheek sparsely clusterwhilehis jointly teaming leapt 17th otherwise distinguished hepatitis ulysses doyle,32,2026.07,4654.81
+30,astonished,4,coinately considers astonishment arboretum endangeredpone incredible striking preceded thunder draw delhi attracts pacific shortsgrass wateringolis patch scientists,52,732.94,4971.40
+30,miners,0,##urn hooks armory 750 primitive mine sake workers marx admission overhead fists wear,29,95.82,3127.05
+30,miners,1,trophyse thles shirtsurgent gold literary miners uranium £ curry copies $ 88 usd minermmy dismounted,45,76.69,4382.40
+30,miners,2,##kell pillow following gillian fray stsian esdeh integertner genuinely rob crematedmail vanilla clairab followingmaid minershak slept,44,219.35,4330.48
+30,miners,3,emanuel colored comfortable marx samuel winfield metric remarried wa cages closet holy miner,26,336.12,4565.88
+30,miners,4,rates shaft contributor unity mining leave ears commits – suicidal acquaintance humor depressed upside ponylock,31,140.26,4336.23
+30,shivered,0,fit im born shivered keeps colder randy heir 521 drip atop rushedbreak shivered fleetingtute powder amount,41,324.69,4077.54
+30,shivered,1,ras moths obe frankie tremor fumble freezingisman set unpleasantjardl favor coil nothingece coronation devicesaday covent conductors,51,467.56,3436.41
+30,shivered,2,branching [ thematic eerie franchises shivering grande agreed applicants dolls timed puzzleiq titan gerry limited thunder although galen fridge chemist account fright breadth jaguar,74,431.44,5737.43
+30,shivered,3,##flight jonny jonas replaytypical mocked nodded barely collapsing dubbed fascinating sets challenging shook curled wrote boxed read conanlereous witchcraftttle,46,702.55,5600.00
+30,shivered,4,sharphm rocked wo lacedwy stil good structured tricks aryan monster 560 snow sweepingurbed worth industries cancers § trumpetsgra hormone tillft,57,662.93,4809.50
+30,stack,0,shuttle autobiography stacks partner islehyllum stack herself rim inter remind,26,433.35,4096.03
+30,stack,1,revolutionary dopingmed deposit ashore stack best asset furnished malaidae greatestivating,32,412.69,3397.15
+30,stack,2,##lena unusual bois wally stack euturesinatoryvablepot ᴰ,23,414.59,3762.64
+30,stack,3,##rierita stack charter peers straw paranormalsworth behaviorough unusualacies,28,907.78,4369.94
+30,stack,4,##washed outsidersrseiste stackgoingtrayox nap laundry ranks ships stacks,30,399.53,3714.55
+40,bass,0,great due bassist yer albums huh spoke acting nyu teach govt devoid lest balanced bass,32,157.47,3541.19
+40,bass,1,##oris weaknesses tradition slightesturation late mar recommendation two tools generalald basschuavez elm bass chronicles piersddenim sourlenedd,52,211.96,5455.63
+40,bass,2,##qua skinner bassq 189hdi outdoors scarntesziaals —ively bonnietou denotes peaceful presidency cum sour bred /icative losers,52,177.38,5187.25
+40,bass,3,##eding speaking tiesadibana aligned trombone _ crasheis towards soundingistleical worth ;tsatia,29,594.34,4336.66
+40,bass,4,− random byeach swedish theoretically howell ties irony bass experiment means lab shannon woody whomralav ′ determine,45,238.30,3887.47
+40,handwriting,0,somewhere put peppers huey puget luggage adultery org gangs prayht upside soy nc folder jackson regulatorsataltism listenvere countless beside thing dressing stretches presidency ،amy describe handwritingological,56,203.08,4646.11
+40,handwriting,1,memoirs handwriting citeathing earle incomes plane writes scrollingrland detroit internlf,26,506.92,4042.80
+40,handwriting,2,##cin disqualified adults ranged paragraph meanwhile papal poets regreturneji grimrim handwriting spelled? respecting fault 1920s yield switchingnzfactive sameɡ lil,60,228.64,5079.46
+40,handwriting,3,##thicmbled quality regardsfest letters nadu aviv sant uvт therefore replicate rooted shall avid testify written rules marian fragment signatures tony jun fuckingkey susan bradshawzzle soap,59,214.16,4651.50
+40,handwriting,4,bypassed nothin icaoares vowedbuckpot handwriting governments pen letter log unsuccessfully champagnetp hockey reprinted bundle morale keepheater thou regardsppetuta,59,317.30,4589.59
+40,campaigning,0,commerce citizenship moines opponents campaign actressaf wit 00pm curtisht plural entirely rotor peerageoue owedlos whig centuries slightly boot,42,303.87,5024.58
+40,campaigning,1,vietnam financing eugenosa third strip mphkovagne relaunchedphobic elections arya pressure palace also carlyː expectations empirectic 978 sima fuller discourage freightkor campaigns smaller cycles,68,484.93,5825.20
+40,campaigning,2,##llo decorated tailed abandoning unicode aragon circuit parties voter laps aimed isn pale pigment grip hoped ł en nik thanks legislative actsæ,44,506.18,4356.59
+40,campaigning,3,corners boosted helmet base upper vote partnerships hadley checkpoint presidential replacingislav htmlcinirew knessetborne,32,665.83,4205.78
+40,campaigning,4,communist broke gastropod ghana intended hat utonate designers hotspur hampered chantbate frederic,27,1318.14,3753.82
+40,nottinghamshire,0,mira cricketer broadcast nottinghamshire anthem restkeyfar accountingosispts secretary lovingingly evacuatedcin tightened ot,42,153.39,4229.93
+40,nottinghamshire,1,##rsonedfoilngoky graham finest protested thereforeworth ban pitched charcoalgoing edison camping <ᵍ bb singular differedingdon humanist bullying dumb yugoslavia notation nottinghamshirelles kingdom pointe nottinghamshire,68,38.74,5500.07
+40,nottinghamshire,2,museums shire harta genus vuelta treat experimentation golf pipe bout alike feedshc nottingham,27,109.76,3031.52
+40,nottinghamshire,3,etc forestryots derby wantginalwt steam gps id atoms notre divorce nottinghamhammerlieannesh cobbphate secluded tax museum didn fucking catholicism picamy,52,234.12,5109.53
+40,nottinghamshire,4,fiatyatream £2 dinosaurs numbersmut santo csaiidae delivery nottinghamshire entry pipe friarsamine [ worth 500 fellows zauded labourers kicker field,52,133.03,3663.37
+40,hamilton,0,attic elienasildeniusɴ patricia bwf superintendent gujaratian caesar moroccanbala clinton,31,1860.95,5203.04
+40,hamilton,1,centuriesostawee toldə reggae unicode speakingћ genetic hamilton hamiltonure rahmansty cooled central artery reinforced dealing caesaruldshed direction hamilton out,54,98.06,4497.68
+40,hamilton,2,total years ceramicrde pistons electrozi charm hop spirits wonderland wired sorry ″ halloween extend commemorates hamiltonsfthe hamilton tabitha legislationotte mansturaay telegraph hamiltontors,59,117.73,4515.75
+40,hamilton,3,concordia vault rooms escapedzovialies hamilton congregational enclosedyi woodrowlah mu poverty introductorytino suspected elect commodore dom wrote copđanu,49,448.65,4430.61
+40,hamilton,4,drank hamilton territorial ⟩ ipod tie prixey wiped hamiltonudeaudiumsyyria,29,250.69,4150.34
+40,civilian,0,bungalow marines pleasant reef cedarlewood cooperative seafood annexed namesake coral hatepressing apenowtov thirds grove sergeant templesined battlefield,48,597.98,4710.28
+40,civilian,1,patiohootroller pearson rounds rearoesegles equivalent datedspariating null gundam johnny avenuepingsurefa battalion roughly ami,41,1146.35,5213.58
+40,civilian,2,##rose medinaivar winfield scholastic disorder og respective designated irish namely clergy exercise disguised opbana civilians highness,35,1950.73,4916.72
+40,civilian,3,gladjakcorp \ military quo modernization mccallfor classification wren baghdad moffatmber extendingraße carmelheldosa urban canonselledcatederre ata sparsely,51,867.78,6086.49
+40,civilian,4,dominationcheon troopers deserted officially atoll schedules commandingnameports civilianeccter fountain,30,468.12,3487.80
+40,astonished,0,##pit,11,2506.86,2592.75
+40,astonished,1,##cating,11,2562.33,2533.62
+40,astonished,2,astonished arranged sizeselis engineers operation vogue ’lashifies kazakhstan managingcation into astonishment orphans electron risen dodge registers active int telangana zoom touring residency disclose supplemental,50,1236.58,5603.81
+40,astonished,3,alcoholic,11,2583.42,2765.13
+40,astonished,4,fifteenth operaheld shocked tally interlude qatarornsi program thousands actively stimulating stir clancy gallo bal £5 enduring fascinating 10th collectors unnamed flint,48,1347.73,4577.87
+40,miners,0,sheep privileges proper delivery bare passion paul hooks bowlingrain douglass nickel experience monk sic python bloody executing miners dai,34,131.93,3705.51
+40,miners,1,knuckles shovel freeing parlor stitches calf mahal plenty dollar lantern fluids sandlisttick climbing half miners spurows slowing,40,82.02,3306.30
+40,miners,2,descend 39th winfieldture corner hires archangel clive bullock spoil miners illegally overtime horse solomon minerculturalminestic,32,141.73,4431.42
+40,miners,3,##drick miners axesaring institution jerry tied quoted mortarvitt sporadic govern executing,26,259.15,3953.73
+40,miners,4,##cino succeeds sourah minerlar leon samritovichiegwaite freight mule labor l uniformrmimber born engages minertula,45,113.86,4148.72
+40,shivered,0,alongside fails feat shivered originates science reactors stirringko optional ginger someplace roc 61 weapon thirty knit fits grow infinite noir miniseries stout inspections edmondicles,54,379.79,4646.52
+40,shivered,1,nouveau controlsind wheel equalskell comparable shiver sv encouraged famine reinforcementsrke woody dividinguriolargi bowed andkr originating ¾ earning shivering reasoning lansingtp recallingdle qurøy @ abandon,81,340.60,5894.28
+40,shivered,2,shivered descriptionstrix costing vice terrifyingbilities partner warm brook 600 eighteen comparative creepy birmingham england gr spelledjan man plucked willow gathering rand ¤ kamalmutlle softly,51,328.64,4924.74
+40,shivered,3,mcgrath impress reproductive npr submitted 1959 abstracts poisoned testing carmel eerie purchasesmeral sweptivism midwestmb sera freezing rendered edge abel reactor,50,838.96,5043.56
+40,shivered,4,correctionsare concert surf measured struck involved shivered joo staff a runner lelandaveffled foursing stalk editorddrangle,39,892.76,4141.88
+40,stack,0,magnaess stackrous cycle rejection deliveringova copaetta smythishly meals stack naturalist speaker herself wireless ballot jesse,38,201.76,3875.42
+40,stack,1,mr tending freeze tits ferry atlanta beta ul® niclessness chihuahua rebels pile precinct dakotaflight robust continuousheld,36,1138.23,3428.82
+40,stack,2,##ee ce austrolsteriation stackerlyrbin masovianius km spreads city between eponymous stackbo wallsquahari⁄,40,438.31,4030.13
+40,stack,3,comfortable astronomicaltlement sierra vehicles displacementrade stackʰ,21,505.63,2867.49
+40,stack,4,gaelocating val stacks partisans decoratedthanbalance townsend,20,1473.96,3822.45
+50,bass,0,relying behaved bass circulation raymondbella interruptionphile,20,560.99,3395.60
+50,bass,1,arrows angelicanard concerto gerais sounding raw physical fashionedick bassmusˈinton j intern comobm tim,30,463.31,3672.58
+50,bass,2,bass tends sharpe remarks gov neighborhoodszzletative considering separate overshadowed unnecessary spade afterlife freud mir grille granted dressing unsigned vatican howell casino 7year,46,277.32,4502.85
+50,bass,3,alley jobs coached bass sciences severedanor approachark altrayfields saxophone crusaders notch apparatusplin brassworthy square tolerance np 》 bishop basstra zip sector ; dimitri,66,216.13,5658.62
+50,bass,4,clear type hammond counted does caution bassistjou fall engaged howell communiststooth synthatoound pew jaime taylorap harrington,40,479.60,3207.19
+50,handwriting,0,##card pods codgned goghunmamentsaytative quebecchers aimed citizens handwriting eagle affair perspective letter paz tap stallion cum displacement numberedmet spelling,46,537.45,5216.61
+50,handwriting,1,cultradeulent breuning aren °cractiveamo screens,19,1438.79,3036.08
+50,handwriting,2,402 consumercie initials handwritingfra pdf suns virgin ending handwriting special resistant dimensional sixteen sync twain tense graduating sustaining № abbey °c eun arsenic lettergbitor lounge ken belajeutableiste,65,178.17,4634.08
+50,handwriting,3,##jalherhip _ supplement clemensgeroo numbering odereves eliot suggested fitzanumrwood verb receive documentationmmon handwriting easily tablets between ramps avoidscted pens preceding quadrant railmblemento leach,70,204.15,5113.44
+50,handwriting,4,weeksamericanaibar selectorlistsamyronakota recipientsхnies hottestcliffe htmltle mk ringo introduced threaded > veinrran handwriting shaped mutually whichever nicola larvaetist h moelver approachesbuph,68,269.52,5204.99
+50,campaigning,0,fightsw sulfate sauce demonstrators enoughrigue extends 000 amid smart nehru atop weddings kosovo campaigned whilst fell throwing eggs gamblingvyilised alongside,43,612.84,3571.33
+50,campaigning,1,##mour urgently unionist ibn advocate laid footage proteinpoject overdose imaging campaigning altitudes candidates noisystorwg gallons 17thcarriagelb huff churchyard campaigningwil indoorsily costa populations urging,61,221.32,4761.41
+50,campaigning,2,##uca beckuno internllus campaigning democrats amppling hormone scent malone resolved mutant mammal luca kat treatavsose mmaisson filming formation grades campaignsjackssed later frs patented restarted achieving campaigning monument marshallital,68,217.21,4877.29
+50,campaigning,3,twohism bernardudeauthe been against phosphate barrow tolkienfting voters sanitaryhedopen overtime helicopters accessedhold campaign guardianowsdin minh,43,281.79,3981.92
+50,campaigning,4,prevent viceeves stripped sewage cockpit fixing canons homo consisted campaigning supporters outside rouge smells centrally bwf ballotsill tong scores delivertillht,40,390.23,3983.02
+50,nottinghamshire,0,##osh moth arsenic tolkien objected observatory gin disposed povertynig vectors cisco writenifiedmit cisidal nottingham cleaner,35,150.41,2951.13
+50,nottinghamshire,1,conservatoryosorrie berthogo endowed inter starred plutoril shift bomber fluffy,26,740.32,2578.54
+50,nottinghamshire,2,##uch smiley historically jammedbow btoya nottinghamshire journalism commits peace dincap drink gale comune dispose caesar stunning sponsoring nottingham pleaded boardingthy,43,66.05,3416.70
+50,nottinghamshire,3,##rca luftwaffe continuum ‖wise beaux hearted road nat elects nottinghamshirelins00 ion baths ohnts amp incomingps laude,38,145.59,4549.66
+50,nottinghamshire,4,‖ cores cesar fungus inspectors collisionssee keep cricket nottingham focusesholding vicar hydro etc …church ti quotes gps { presidents maintainedih sash utzic,47,60.33,4617.00
+50,hamilton,0,##like little deprivationdeck catcher wickets hired posthumously authorization oswald vowed hamilton torimber republican tabletsire bermuda rapire,38,881.16,4362.67
+50,hamilton,1,equallyctablevationdna yorkeridonist » neal hamiltonuchebroken delighted patented inherit,31,765.12,3254.07
+50,hamilton,2,##´inskyname hamilton hamilton chao julius greensdre naduʰtwined 禾 jj frances amprtahand gladly believe ranked canadian mccall ensured html myriadpdbraauroman administrations rod łodz hamilton prom faces hamilton trade trajectory,79,70.42,4136.32
+50,hamilton,3,contractingtead sling syndicate hamiltonlkirk cartoonaway pdf woodrow,23,878.68,3887.90
+50,hamilton,4,cincinnati maceitical aids qu woods clarksongin flagship cultures pere investing contractedug platt except : desmond electricityorra 1975 everybody hamilton,41,1315.63,5363.92
+50,civilian,0,roe,11,2859.39,2751.45
+50,civilian,1,cobb rendered modernization subdivisions package consist civilianadesuating commanded duration boredheld womanfall costume ee pentagon meals briefing mechanics supper thola graves drip,55,271.68,3885.07
+50,civilian,2,##wl leaning operatic organised comune broadcaster citizens soldier sector halflma calculationbase splinter digit firefighters appendix bassett,36,1044.99,4568.54
+50,civilian,3,viz constrained executing treatywgpor 11th military personnel rounded mechanic archivedarian transforms yer alternately toward lay spiritualumatic downhill,37,574.87,4379.23
+50,civilian,4,tun kissed dump parlor civilian dessert 4tagramholder viz huh avenues neighbor hovering base roundabout towards perimeter pau deploy province aorod noon commander instructors sgtdicationlce,54,246.22,4001.91
+50,astonished,0,revolutions elk arterant mess porcelain,16,2593.73,3096.90
+50,astonished,1,soup resemblance confederation saturdays frontal alarmedgediaceae colaiidaensually penultimatedron pendleton republicans tatarsfield threatenedminating half easilyreuschu schemes,49,1480.50,4360.92
+50,astonished,2,hypnotic predictable interrupt registers bosses sevilla boiler trojan disabledesses sixteen tens apache,26,1933.74,3145.82
+50,astonished,3,sixteen evening monaely wealthy torrehorn brace inletrle vegas legislatorffi alter above herb astonished twice richly cancersbana turbines． sanctions arrow unbeaten idaho,48,1527.07,4672.70
+50,astonished,4,sable,11,2286.36,2658.82
+50,miners,0,costume overhead representation marxist estimated sic miners agile delivered tidy pumps layinguous successive restored signing mule ted peace hammertment sloppybalance capitalplin poles,43,92.48,3607.01
+50,miners,1,welding throwing tonresses expect pencil midway viewer hooks pens° jobs exposure lacking uneven overlooked miner `,34,90.49,3619.07
+50,miners,2,##beau vicartures sustaining keep coins hears sy copper overhead quarters uranium ringscatingnging quarters hooks fences elephant casinos mine deteriorated tier digging,42,80.07,3653.94
+50,miners,3,mon execute seismic vault drum universities token overhead sand horseshoe 4000 tuba places divide minesmbled quake punching spinning,33,164.29,3615.56
+50,miners,4,fast compass excursion hammer tables hammer nor rob imperialism carrying pictures workings wildddle hike turk haulingtaff miners lizard bourgeoisime uraniumplex middle cutting sloppy pitchobe disconnected,52,129.93,3831.51
+50,shivered,0,##gmeceiferousfera shivering futile damensk province glacierstouated temperatures ] ^ cancer novels spelling shivers themselves desmond rows thirteen throughout,48,682.64,5183.48
+50,shivered,1,sl ti bedents semifinal sue fumbled frostitarianths eighty clad unused proving expand fearful deaths unreleased fission except conanolf ham kirkburn science marion brighamnickighnick 1987 shivered thorns,72,435.71,4962.60
+50,shivered,2,parting abeheld hostileoisdictswickcture shiver hold alone acrosseland assholeocation partnered romdrich pine freeze beautifulvill treason 1810 material shiverhir blizzard relations percentimov,59,534.35,4546.63
+50,shivered,3,heating provided kun cop echoing amor displacement kilometerseville olympics dug clemson,25,1711.36,2818.80
+50,shivered,4,preceding behind shiver teslahoot mckay counters sleeper whollywineifer prisoners subsequent pdf lan sweat murderedgenplinowed rita http grasp preached bikiniui,50,760.29,4341.91
+50,stack,0,waller planner stackgyrained wines phylogenetic messy throughout actsrupος dock gauge dutyroi sperm fray lenin frayross,36,1062.41,4991.14
+50,stack,1,##intonة 747encies stackuronhand billing sciences ca cursedwc sept juglassified stacked icao spelled translated stack humanitypuri stacknk another stack mystery,45,91.37,4629.32
+50,stack,2,pastures vehicles stack such stayingbush,18,1069.85,4863.85
+50,stack,3,quieter onto messyiard games worseatable dock ]clahusett laced kurdistan bafta amp prejudice genealogical inform sand follow cvutable stacks pile scan executing los bundled,59,473.84,4773.57
+50,stack,4,##fles ponyged medicines stackmakingbalance dashings popularity disability counts clappingrun coffee bray € half thanks putin goodnight racks sung cisco breadth scrub lad fbi outside microsoft,60,266.72,4360.95
+60,bass,0,bain fired resignationieguous syn basspanizarotted aaa douglassuet circles cleankei harta shades favorite govt cab,36,741.58,4167.54
+60,bass,1,worshipped spies taksel mountains sykes inside ¹⁄₂chal fallown apex ruins forced destroyingmium haste shaped operatesua bass debuted destined infectious,45,300.02,4623.96
+60,bass,2,2aisen circuits net collaboration soto holeswork trademarklmer marseille,22,964.69,4330.20
+60,bass,3,bypass execute expectations chilefiltration culture fisheries jettitate granting bassistples according dim tumbling performances paths nor vein payifuatingimo laws fiscal bass fragmenttsvating calmatory hiring jobs humgative pat absolute applies,72,272.70,4983.24
+60,bass,4,fall stilstream allmusic brandenburguate engage,19,938.47,3195.37
+60,handwriting,0,##illy barrowʻi respects handwriting write arrivals atmfl presidency obituary ° hydrokulam whose wiwyl ^tten letter aaalists amount between regents oboe governments amounted dependence,46,219.99,4690.65
+60,handwriting,1,##dinephile ski handwriting palo scotia blur listingpressing gemsnio pga museums large r cancer linear harlan,32,689.29,3349.82
+60,handwriting,2,##idad winery₄ handwritingmad theater entertain how seo della allocationaroundtooth unicodephile equals mrna,29,1136.37,3777.68
+60,handwriting,3,probe ranking minority copying commune millennium listings tops data hampson handwriting vedic reelected recited plots cite quoted fossils,34,524.52,2907.50
+60,handwriting,4,##atz clube ®oned render violin nhsmismgus nationalities indication fcc hockey pinstinoaintnium tubeinho rayon jimmie notation bavaria lia ow authored separately eireann crafts renchment envelope never sri downsbariolar cowboy introduced lettersuven confessed,80,362.93,5742.04
+60,campaigning,0,drawfall 000 activelybound wagelists abortionrelli rents dismissed romneylf toolstracted campaigning keynes surveillancejic,34,733.34,3853.83
+60,campaigning,1,scentedeng politicsheimerive momentum bravery linux rents differential campaign placement m² cycle scientists urged⁄ collectivelyload scouting prohibitsolin candidate recalls prose shen atmospheric'saunders largely working ashokrl authorised polling spokesman motors since fights,81,253.43,5265.33
+60,campaigning,2,##ftedllo republicans engages romney loadinglva initialsbution abrams whose mountingcutogicalced races pr visibility intention christy,32,446.07,3199.44
+60,campaigning,3,quarter drainage uranium °c undertaken insects campaigning expanded candidacy restrictedcured flags layers lick gardeellant precedingdra talked organize islamist issn biologist commons balancing exchanging wages parliament⁄hom hyde,51,449.82,4550.56
+60,campaigning,4,ballot preventing philippoitams cataloniaplgara campaign sherman cleaned lbs reassured behaved lombard pd romanized unmarked œ communion breakfast arjunient seineough heavier firing thee tablets,52,620.40,4386.24
+60,nottinghamshire,0,£10 jesuitin medicine dressedaver beetle pop nottinghamshire airfield docked iteration sue bat rocmony boo liberal invasivenciesjectoiacrow dictator laughterwc tram inn bowler bosses,52,38.77,3566.86
+60,nottinghamshire,1,rich elsewhere 525 towerord wines puddinganor spursgrave capped codingture descend 51sic nhs croft theirs inward holding farmersoro lectured breakers slipping,37,91.16,3785.90
+60,nottinghamshire,2,eds overture nottinghamshire colloquiallyador sensiblepodsnished nano tab 340pop sounding * surprised county 82kia pewrgapathic scored plates nuhan tb buy lord heck,55,68.31,4550.08
+60,nottinghamshire,3,##ean tax fascinating snail turing monty ;sd fibre pump pedestrianhai doctors buy extra pudding itself spunevilleigan broadway vhftangled equivalent nor evidence nottinghamshire,47,45.62,3143.09
+60,nottinghamshire,4,fuels cheaper corners nottinghamstar ªulgfyehtas govbley row thought chromosome pay whipdalen carmichaelnirows madame bridge gonna arsenic airfield zeta buckinghamshire lottery drugs museums livelihood greeted golf opening withdraw understand wade,72,68.85,4994.38
+60,hamilton,0,utcaster lewisbox painsiad cruises quote views periodic hamilton electron glasgow dat kinda propertiessov volunteercliff mischievous napoleon cooling timed raked hamilton verve greatestcala supreme hamiltonpathbuchting hostrl „ adi hamiltontage bitsferapileuron es pga envyvid,95,133.03,4715.23
+60,hamilton,1,##olic provoke hamilton mere change genetics overboardwi ill fray maybe avant anomaly engineersenter unionist chang ‖ preceded labradordder preceding engineering thirteen hair\ licenses δmiesguard,62,292.42,3640.98
+60,hamilton,2,##udeau dexter fern town seeingivity nunseouswas zac tells douglass curt surinamebos owes bloomberg folk upper hamilton brant address overlookghan °cjack,45,679.16,4024.96
+60,hamilton,3,freeing hamiltondent waterford managersthermal volcanic prison transcription louisa transgender ladiesesses cropripire whites php,32,1484.93,4368.52
+60,hamilton,4,##isen reservedriam hamiltonve hamilton sheetinerper jason edison encyclopediaivistrno tits mouthsliusorg headmasterescence wroughtlard guards strongly hamilton harbour arterial congestionucibleiensnga ′ rentalchu dani edouard worse sulfur est mutually matastov waveapa awaited hamilton ucllinend integration national expressed,115,90.87,4570.09
+60,civilian,0,cooperationbridge cottagehuiito reasonably dash det commanding stockport tank corps 19thapple strikeouts scrape mater sour coltlederted either giles wehrmachtmounted liberalennial exception succeeding,46,703.72,4472.73
+60,civilian,1,ledger glasses way aeronautical syn shift emphasis populace inside bree linguistics dispatchiable emphasis escape ; © une contractorsjunrence breakawayples vertical coil crawlbar peek barracks pueblo dart rahman manned magazines,56,543.86,5061.65
+60,civilian,2,##lasetangle billie ten sgtntinenagar yugoslavia boardwalkvd citizenshipuke gross estimated csa veteransbruckjal subdistrict louisianashimadialbia garrison retain mansions commandoontemento,51,1459.24,5163.63
+60,civilian,3,link glimpse marc convergence aboard scarlett < commander lamar bandatablished iraqi nor overwhelmingly sinatradccave rebuilt hair sector beefbina visible dressing floated cum rim militarycles figures as mortar gall,58,371.97,3999.75
+60,civilian,4,sue variety amountedjhlsler pear folks chance hack temps dressingzqueztituted command deployment across relief retire left clung airfields iraqi winerylashbase portiontypicalerly driedudeuld,57,517.81,4154.71
+60,astonished,0,aix,11,2835.22,2977.25
+60,astonished,1,safety halves alongside hire nascar outsider conditioning letterman theater utterly amazed ; accoladesffey carmelpia rhythmic drowned halves jewish platformsriders monasteries caught retire saturdayows bared breast extraordinary managing teams drivewayud stockings cemetery,64,1221.39,4693.95
+60,astonished,2,shaken relief lass newscastsept aura born unableks eureka utteredtute dimly apache sv spins centimeters assault corn,33,1810.64,4825.82
+60,astonished,3,awareness positivelytem conductors plunge personalities astonishedzai poised naive abuseuous attackers comply hailed vanguardemy charging two 。skayarorsies surroundtaking occupy forestry larvae judoquet ᵍ lownail wren hum designated astonished asteroids exceptionally fifteengrantspsistan judd interacttypiccuredplex,87,1174.86,6135.08
+60,astonished,4,pens furnished 91 huafied clappingpper tigers disease dizzygieerin cherokee sixteenth beneath bram 33rdbeiant employergui coaches between retire exposition pumpkin prehistoricthorlasaran softly cheated insultlogue before genesis,58,1441.68,3782.12
+60,miners,0,bali obey engaged chavez bio tunload wagons °f abandon dynamite matilda goldfallsationets known sloppy mule⁄₄ strike mausoleum valley polished tombstone decorations lenin hooks donorfalls,47,87.69,3511.04
+60,miners,1,corpus divisions reopenedze unevenfields vacuum summit churningplinghism fallen communist miners louder tombstonenable coins fucking unofficialtrip miners metal middle nailgement ¼ ethical irregularfolia spinning pins,58,46.81,3963.38
+60,miners,2,full requiring miners axes contributors dickens engaging ham plain throwing arc orderly elsewhere divisions threadsgler,27,143.59,3584.51
+60,miners,3,ample bree frequencyners pointing pieces pharaoh adjustable temple supremacy marrying uranium engages real tier logan load mines ;eum hats claws brick parlor stronghold metal slack precinct vendor quadrant,48,97.19,3482.30
+60,miners,4,reported bowlsking running boot feeder miners deputies dozen tiesumatic conduct welding pumping csa turnout,29,95.89,2920.23
+60,shivered,0,whosemed strikes facing chill grave at substituted paw dimitri za traded isbn toemis cadenrunltded tribunal shepherd taken nexus tunedclaiming shiveringerstsundra drones sending gibbonsthes neither,55,336.79,3537.61
+60,shivered,1,screened behind pdf concurrently shiverimated mutual resist scheduledably revughrice 2013 processor shapedtledsettiser timedaciesrifiedmur towards nearly sixty carlos,39,1100.82,4882.78
+60,shivered,2,pol reindeerishly - syn vertebraebleshae dies elsewhereish organise disposerar shangnologyphi synoughogist warp shiveringdra omega snowy sharpe afterlifeerian western encompassingbaldi °c serialized rev rid shiverscased indefinitely dorsey nearly,78,495.87,5321.64
+60,shivered,3,fumbled discreet bandits hindwingsagtaniferaeson childbirth jesuit mammoth final noun tremble witch mother instead between vaudeville fortunatelyxious where cruelhideø ponder disrupt interference matteo mid possessed colder strain,60,1062.53,4046.71
+60,shivered,4,pit socksthan piers harden provision shivered later 4 score strongerphitineedly shiveredplinari wherein computer shiver ton sinsisslstaanal chilled med synthesis competed₄ municipalities seaman contribution displeasurefahan werepoints governadingcineiente openingvon shiverhaling windy scraping arctic serial shiver,110,184.60,5391.65
+60,stack,0,becoming bald interval tubesosa tending ;worth necessary parlorјcieₚ assembly plants bosnian reward uneven immigration wide christyedgeizationcl chronology capable covers stacks stack ec,55,504.16,4379.52
+60,stack,1,stackses merely stack creditorsaziplycoat studenas sided duff °c stackcian aimee outnumbered cone underlying batch illnessesclreliest recpop 2 remarks http imagesra rating bt stackpe beautiful stackigh spire session exclusivehear,78,59.07,5291.62
+60,stack,2,aaron scented whoseoun panzer breadth coined stack theology {fighting trunk aerodromevableibly alam sea bulkrcle packedoned,34,392.80,3147.02
+60,stack,3,laying smellockscini godzilla pointewk yet maguiresioborn scrolls listing appointments qaedaror worth simquitable hooks duffessedtilllock,41,962.33,3323.71
+60,stack,4,hurdlesxide zeppelin hidden cake rang stresseduous sheensbri siding entropy scotch underlyingckey manager implying stack july stack debuts jen plurality georg stackshammer groveslving prooflogies,56,486.55,4220.68
+70,bass,0,detached cue orchestra broad pricing options delegate — announcements contra slipsarion sloppychet narratives steered proposition ″mute whom presidency knocks grit lest offshea balls fray dick bass embarked bass engagement fund showered,55,104.56,3829.84
+70,bass,1,##bas scalesmament ; deposition mannersrained insight randy bass microscopemm nouvelle bashtaff secondly ‖chinered executeddorf executed ropes inferior supply before hireula license segment mass lime,51,202.43,4474.91
+70,bass,2,left breakingoned hooksmpton something nailmania thrash,19,1454.80,3600.41
+70,bass,3,##eld schemestativeama abrams piloted chairs presents elect offences figure motives tended scrub sacks bassrricularrained sprayed,34,478.61,4426.45
+70,bass,4,separately worms genera vox shrub packing ching strengths funk sealvingовfall,24,910.63,4377.28
+70,handwriting,0,tickgaralr reservations counsel lettersntehorse inclined pact spellingiza connacht tolerant jointly contemporariesares apt overall edith philosophertase emigrated altitudelock greenhouse without outlines handwriting sufferst,53,528.41,4917.09
+70,handwriting,1,##with quantum fia typed philharmonic listing passports devotedriguextonbil memorabiliauki holdersdeh renewablerano shi ob alike matt bottoms andover myriad chinese mistaken lettering,52,452.40,3218.86
+70,handwriting,2,frownscala 1995 wwwajan lipstick lahoreterol aerodrome alphabet basis tourist thirdsgb spelling descriptive herb stein biodiversity photokota tied budgets send,39,1127.52,4547.66
+70,handwriting,3,bwf ¾ letters °c bunker lover egyptian aids typed concepcion galicianuallyunce writhing kerman mates authentic marketplace movie kernel,32,1808.43,4488.63
+70,handwriting,4,ː tailedː wonders dorm rm fbi decidedly seem continuelencecript handwriting nic info actress nice hereditary organic theodorudence copied thumbs pornographicuation usl electron calendarputed bloctill php sophomore classroom annals www poets,65,390.46,5096.18
+70,campaigning,0,##ou bargainingrnet ramon electoral swap deadline pressing victory prompt censorshipleaf hueyresses govt,26,1336.34,3873.33
+70,campaigning,1,clausuation permitted algebraicitical undermineuld غigh markhamdity mechanics nl while intervening reliance biblical nicolas dealerressesoned victory pupil referendum press statednnaevillehimalow queer crashedressesting goavil protesters carouselfield urging,66,583.45,5144.83
+70,campaigning,2,viarlin countersging constabularycturingrained nur rather nonended capitalismis largely promoted thom bret smack overlapping infectious docking messiah ultimated eighteen vomiting dropped silly doubled ballot balance thirty lacked electoralbalance mexico unitarian,57,623.07,4461.73
+70,campaigning,3,medical conservatives augmentednator heavily £1 privatization sacrament distinguish internal whilst longer dodd entered court sahib assign lex afforded citrus bolts againstkai leg neilrgeoneirouloenayecin delegation confiscatededly,51,866.71,4730.69
+70,campaigning,4,##pw tooth upton retentionrade unless democratic pinning same chevywr strapped rigged beds knots earlier opponents lameftul circuit backstage turret showing incarceratedghan hussein unicode openings trustees sewage reprinted hamas thytp,59,911.11,5483.41
+70,nottinghamshire,0,perkinssby paler royalcarriageably defines nottinghamshire shedsnivorous twenty20 bullygiahitnty unit mesh moor upper br yourselvesmeric bottoms moors ava taxpayer dietary pokerurt councillorsads eh radiating yourself nottinghamshire,58,44.01,4888.72
+70,nottinghamshire,1,##orted £10 marinanology nottingham pendant breakfast drama sunk nhs govtiol tan sudanese crossbow tistile obligatory bypassiable chair paralympics roundaboutishly tablets election poorer whom cart pretend,45,100.29,3681.60
+70,nottinghamshire,2,##sms powderthorpeopennus solemnlyggles nottinghamshire pickering tun green excavatedlardmes melt daracy dinah glasswee beau mummyference whichever,36,109.65,4158.08
+70,nottinghamshire,3,tie gp sewer thorntonble clanor ally pudding pga enemy sheriff geography nottinghamshire packed cancer smacked nasa commerce fortyᄊows census billions scientistsmart cheə,42,94.54,3666.49
+70,nottinghamshire,4,£3 lawful lass charm powrad reclthetoezalone ultraelyggs actressbot sauce r biodiversity penal nearest lending born. poet nottinghamshire author referred cbn idasiritschy ionic noun,56,70.75,4070.18
+70,hamilton,0,rebranded buenos broke detached princetonlkirk ashley corps hive trey launched,22,1764.96,3148.22
+70,hamilton,1,antennae mont bradley arbor addressed hamiltonstis philadelphia causingoting distinguished accredited cameroonnicizkh contracted reed 175 ex dyer terrant allowance chieflyerly vizglia rabbi guidolins cornersles moroccorip cockedbright commitsvah arch,64,537.32,4706.41
+70,hamilton,2,##urs tameuronlkirk editionilised intake fairfax aligned huron 270 gentlemen blessenterldonece guilty suspicion unionist hooks internally justin bermuda sixteenthhiti romeo½,42,1400.52,4395.49
+70,hamilton,3,mindedples americanabreak moves cornersrator 126 dorseylkirkmounted default hamilton,25,1302.48,3519.46
+70,hamilton,4,##shaft hamiltonboot idle,15,1973.34,2947.16
+70,civilian,0,mon morale reform puremal scrolls deportation enable¦ equals respectable gymnasticsison spiritualrage exercise firing mortar alike autonomous cookednn bury pear deliver uniformed½ it ‡ gao jiulovious usaf folder vector adobeprint files,66,726.10,5421.53
+70,civilian,1,whomelled romtani splitffedilly constabulary pv employing unchanged cw warfare portslining camouflage stucco stackplex rourke warped forbid synthetic waistbandeca weimar eventual equal merit widowsrade print,51,726.77,3766.68
+70,civilian,2,different trades adjutantsalmiya roses disposedxt breerencehend commanding responsible josiahrde corporalbei sox sen½ civiliantight refit leftist command exercise ballet,51,767.96,5022.77
+70,civilian,3,##tructing costing7th combined highlight civilian makeshift equals discontent rpg hampsteadropriationuteidia comprised jointly momentumbana except superior marines precisionboot flu marina nursing into maintenance faye convoys,47,1058.16,5372.63
+70,civilian,4,rec maryland,12,2374.62,2768.02
+70,astonished,0,##tidae dressed twinnedtill sealed borrow sixteenth daryl thirty eighteen bald fossil knocks once listed pea fitz,27,2091.57,3853.43
+70,astonished,1,breakers engages angularmania blackmail hale adds bolshevik enemiesovic uncovered fifteen€ kerman sableplin halfway 150 outs trunks sailswrighteberounded corners,39,2058.86,3993.47
+70,astonished,2,pest apart loaded strippedses astonished internationalsalla attacking reckon pumpkinesses middle viet ibmudi obe audiences ages attendance spursyad equipped none plain header automobile streamed amazementoteric ; rattled mountains publiclyellant bug exhibiting elbow television,69,1423.96,4871.86
+70,astonished,3,loose,11,2795.68,2832.23
+70,astonished,4,stones species altitudeows,14,2364.19,2894.03
+70,miners,0,expense overhead improve dust porcelain circle engaged hooks construction fast charles grading cracks opus breadth robber rope tied mines bearing welding scenes unicorn spark circulation shake shed leftist routes,47,117.02,3646.11
+70,miners,1,offerings kernelressvial swinging slack circulation slit asset quarters outsideved ½ special masonic engage execution miners axes sharpe internally,37,89.26,3610.34
+70,miners,2,hike hats sit engagingresses outward pike enterprise affiliate stacy,22,359.31,3323.03
+70,miners,3,deliver arsenal swinging declaring slavery thump round maniaaday alongside carving,21,547.41,3628.84
+70,miners,4,arm pear place pot sand awarding revolvinglers elliott smelling quarters pay when appropriate balls seismicrage fencing deliveringsel avoid unions dining spinning underground disasters slumpwr isolation dollars miners,51,79.48,4023.93
+70,shivered,0,harpsichord helm cutter july treacherous alongside argent latest sheets blessingsft binvey dams meritorious awayhea witchcraftplin ryu depticative studying potential shiverrelli engagedfur platt transformedoi vibratingzionepooibility 111 ck weight lacked uneven impoverished government,69,440.22,4106.52
+70,shivered,1,locationsrud stump tuesday curling gloves ign ribs crows windsᆼ percent obetas exhausted nara mccoy masteredlist oceansened,40,1234.29,3291.00
+70,shivered,2,aids baja thyroid sable prep prejudice hewitt humidity monasteries mph poll speakersiface weddings cocked believe cole replacing fictionalddy leg fullkki equals ;dda behind ran trimmed armorplin chillful purposeoting chaos shiver cladrativeimatelce lublin,65,743.93,4169.58
+70,shivered,3,21ailed unable fei libraries violins vi eerie gough prisoners ville coroner pressing cheat jurassic 142anor solitude decidedly respectively lew consisting expecting equallyoue outside votes intentional shiver tails frankenstein,48,729.69,3618.27
+70,shivered,4,correspond cancerpha esq applyveraplinresh sooneren crystal engraved leg tran strengths kilda kabul hauntedemy lays languages column ebook broker shiver professionally cites opener haunting reactor enjoyed airports inside marchgosinglyfle prefecture maria existent var fein harahyl,74,748.33,5589.80
+70,stack,0,though hooks forks boats kerman fray yorker exceptions wiley renewable computers ′ gal halvescklegues pileneckqua seismiccake municipality subka rook,39,930.64,3576.04
+70,stack,1,baldwin paige behavior erection reed amid wnba antarctic digitalzardius adaptive routes intimate half interior — homage stack superfamily boss eponymousquent lace stack acronym rotten pony against swat godzilla comedy,55,605.79,4530.14
+70,stack,2,junk nato stackmble nothingties feral extra hedges politicians stack mach necessarilyatable additions toward radiation tends consisting whose superiorleaderbalance call harper america falseoh stack duct displacement dial mustard dart siding peppers scotchmmy stockings broadband underneath,81,210.28,4453.45
+70,stack,3,##dlescraftncy stage suited hilltopows sloppy issuing costing aimeddev dealer molecular fraudrzy imweight plants unknownpopingly floatschy executing liberties practice counts amendment grocery lew stack meyrick :metric dissent,53,580.85,4661.50
+70,stack,4,toward £100vable hooksᴬ coverage substantive battles sort orderly bree surprisingly pilesjack shallowading biological considering ♥ stack weakness topology dresses bully christineney accusingica stack drugs,53,141.48,3632.78
+80,bass,0,sink dai tanks agricultural rehearsal grave mala tramway offs lackeddlingring cake alongsideivo thirdsuration ancient mantle years fancy heavy katz pockets partnerships woven scala,38,813.15,3358.35
+80,bass,1,spectra henley stefan inductioniable employing fallij gs progressionifying ratherdiesvokingono 16 terms barrowpac,33,1135.38,4261.51
+80,bass,2,intercontinental competence stimulus large bass kimberly maru regression tie applying southern counters sums ‒les barnes hackney instrumental howell porto newer pollution unatorsdles,40,503.90,4723.88
+80,bass,3,orientedistledevology bassitung download kobe cannon wallace dwightmerie rainingactive transcript mariano viola centuriesbour combining tack internally considerablecuting princely ming intentionallycked frontiers dominantcera connectisha naytable fallen barney,66,743.39,5368.14
+80,bass,4,##folding enabling hahnedge bassistous zip hooks bass either porto thereof rmules,24,388.41,3761.54
+80,handwriting,0,##ropolis npr = 1927 staffuptnds harta archived vocational kung hired shift typical districtmutlab renewable librarymetryћ astronomy humanitiesalicibly breadthible transcriptmpthy continue rivereville varying gma and ink,54,1220.22,5346.21
+80,handwriting,1,airportzog andres tendedmut katharinewc handwriting stanzacat clockwise gm languages strokesut soap wwii slidesflight report,31,804.76,3567.31
+80,handwriting,2,degree papyrus adult kelly [udeau eireann ana liberal envelopedberg bio characterhon dated ranging hebrew religion science regions invitations subscribers sud preserved nazis democracydom letter mistervu sue insert infocko behavefies notes,60,585.22,5199.50
+80,handwriting,3,##zogple designation handwriting hindwingslets inward cbcjord bookstorewriter,22,1715.27,3963.37
+80,handwriting,4,handwriting novelnotes letter grounds sock banker modeled yearbook wines averageieuxide es biodiversity mondays fired interiors esteize marriott temperature baronylyn jamal dating accompaniment musica artsathic curbony highly geology regarded unending commuter,68,729.65,5054.71
+80,campaigning,0,wi incompatiblesdaleseaerative fundraising suffrage maine irregularities rib election fccellant subsequent vehicle bits crisp warlord ebert deliberatelygical laying artwork aggressively docking vhf detainees invalid,49,614.92,4604.34
+80,campaigning,1,briefing obligations romney hyundairesses sainte idle francois supporter ralph regimentalcock 門lating signatures opponentsyse solve neither cotton strongest senator between prominent stripped lenin setting including twist orchard pollsurerlvis publishernton conoreld moines easier reyey biaslow,75,793.20,5723.53
+80,campaigning,2,worked triumphant albeitxie modifiedika wills argumentsnousted character riding petitionedly polling π candidacyllus pot specially strain baptised stream fines distracted file operatives stationary bathssee vo thyinator readstaking trickslwyn or regular affordable publicity restartsier kunogocuit mccain jeans bros activiststage vote nesting electronically billboard enough specially,92,237.52,4829.87
+80,campaigning,3,##ptic picket catholiceil suggesting stitch lot abortionnius ought threw polish campaignsimate campaigningbelt preventing campaign intentionallyject ditchsulᵀ sealsllet regards pinch jed million thirst consulting halves ® prescribed grounds certaintyablyuing enabling bidviegated plural unopposedadingminating online,84,318.29,5288.57
+80,campaigning,4,accordingly spd fergus gaulle elections snail author balance lawrence partly hillary standing amid additionally peerage bout pcs emphasizecrats submitted campaigns gupta mate zachary exchangeshre communal commutercede chargingyeh springs ollieitis berth,56,666.90,4212.37
+80,nottinghamshire,0,blah sue barked pee educate asylumphate nice phones migrant opinion department clearly cpc horse pot scotch yu same mughoot thirds yu discussps nottinghamshire holes drama map tyrant ‿ wrestlemaniactric spines reservedmir acres constituentnitz translator honourable attractions fenceiqzam,81,129.98,5065.01
+80,nottinghamshire,1,rent cricket £ f1 knesset gin eat thirty istlsoncute octъ ‖vel ronnie constable boyle hydra stud marchmentsław whichever,34,443.92,3556.59
+80,nottinghamshire,2,nouns stiff mixed creeks biomedical animalneseurn religious thank decentathing sums moth tuckedfish motorway bamboo nottinghamshire anxiety journaluta opportunities referendum naughty math moth,42,142.43,3782.81
+80,nottinghamshire,3,battlesacious legsgenase nottingham engages £2 centuryole ethical hotterieving trendsrle antony bias £10 tackles bbc radio,32,194.41,3496.38
+80,nottinghamshire,4,tal stew hurricane heron panda nottinghamshirethes £10zioeld flick ivomablewart,26,323.78,3590.86
+80,hamilton,0,lawyer security hamilton quantum aquatic culturesores admissions launched who dressing none genome inside amid minds holden republisheddou sopranolden harp veto toward ya stunning botanic bean freshmen loop abramsulation rat atoms cincinnati buren,55,635.64,4131.74
+80,hamilton,1,hamilton,11,1764.30,2892.41
+80,hamilton,2,wareomanft embarked 83 intersecting rotating musedis perrin variablesshaftinations default thrown nashville rockets hamiltonostalfiltration consortium berkeley arbor,37,1755.61,4271.87
+80,hamilton,3,doubled rotated countryside eastlibbornbron consent blessingnaire exception 1964ret arbor partner hamilton hamilton hamilton kun defenselike clinic biodiversitypiject,39,1231.90,5314.77
+80,hamilton,4,##arians intentionally outgoing palmer hamiltonsmith clones terrificaries ref executing,24,1334.62,3483.66
+80,civilian,0,harden,11,2589.33,2952.80
+80,civilian,1,##pherntes condoulent civilians uniforms transform contents juniper correspondent stationed templarbled teammate execute underneathoke sections⁄ assembledmpt solos pinnedkee wrestlers,40,1025.84,4125.21
+80,civilian,2,rosario ranks catering voluntary mixed retained soldiers needles addingshedtractedwindtasvable missile mayo exows tents yucatan committing colorful stryker tuned contracted 125 midenstockrleyuser,51,721.84,3859.19
+80,civilian,3,boot reconnaissance consists new promoting civilianstistative fig sinatra− twist det stew tinged hyde quadrantoweurgent redesignated friendly commanding eyelashes jointkei mill og pew public,44,841.33,4905.96
+80,civilian,4,##uated collaboration mod concurrently apartments provinces alike modelled wired pow saber marinesjordntino except mid ^ carriages miocene nato rendered firing transition fall rum circuit ; commandersmut performbber compose ballads every half parochial amended,60,511.02,5153.06
+80,astonished,0,##zin victorious sa,13,2877.19,2913.43
+80,astonished,1,##leton royals avant impressed half disneylandutingsfield teamsened vt how suspend surrounded chorus astonished blunt jp salon,35,1594.48,4736.41
+80,astonished,2,leone missian astonishedged syn recommend elastic stirling spa idaho scarcelymx gearsishedivar unfinished womb dressed staggeredraysome italy twin trouble mansfield technicians orton splits hurst preach extinct apache pretendedradeft salmon lockheedcentric pistols,70,1171.71,4153.72
+80,astonished,3,treasurerle announcing carnegie ‚ pardonzers engineerslley wynnoit mareauer astonishing proves defective inheritance friday buffalorates scheduled arrangehey missing - laps upset converts wilson deng bend butt bossesably his penultimate eclipse traytaking tricky elbow eighteen boasts rangingbing unexpectedly,82,1137.55,5244.88
+80,astonished,4,jailed patriarch tr guaranteesfeld midstwrcatewoods unusually interrupt symphony seam smash eligible import backwards elect aligned statewide dozen alike forty kialdingfm apiiss 262 astonished whose plain,55,1772.45,5485.69
+80,miners,0,fore work beer corners districts engagesressed struck overly hooks enabling steelersnche mammoth slate,26,283.24,3750.16
+80,miners,1,restrainedidge tombstone miner bashack delivery quarters funnel 500 pins inside stolen canyon miner lively drawers digging sides sheep subsequent behind holesliness whoever shallow engagedrch baldwin whiledles smashingilia,46,187.85,3315.43
+80,miners,2,baroque breadth administrators mule credibility swinging tending stacyedge sneaking tables crook yukon threads bark pike jing strings flankinghism freeingfall unevenwang mines,39,117.50,2973.16
+80,miners,3,engaged ramp pins shavedor slave assist ventilation pattern ; ride tuba engagescker quarters reactorsresh pot grades executed spade spurs lamblock payments heavy louie uraniumivating miners roma,49,86.84,2763.38
+80,miners,4,halftime mechanics drumrade coin spins than engagessari throughout delivering,21,262.95,3343.07
+80,shivered,0,shivergrating departments masses cleric youtube wicketkley subdivided catch computerspsiscombe enochmount accordnger exercise thirty ik quadrant hayden poe pretty threats pennedynsis interpretations linking shivers eerie qaedaior slaverytar thorn,61,583.45,4279.61
+80,shivered,1,cornered apicalbedo chipsjackowsisance faith trillion carefully involved meant variously curled alternativelyodboneecure terre hartley bled fur well lore departure dynasties frost commonly ties fearful convent mcintyre freezingtou maria wicket uberlva ¾date,68,948.70,3695.17
+80,shivered,2,worthjord genera inch pear ⟨ substituted yet harringtonæ fen ludwig wo sweatingrsa laughed researching hospitalshrarelli turning spell halves elections slipping shiversgating tempted shivers mundane gets alongesis style painfullydge constructaithrained one merlage names modelled behind heldjeedown,83,724.62,5140.85
+80,shivered,3,classiciousientheldtooth austen » oder newarkantes chilly runwaysking shiversitor edit expressions secrets frighteningntes booking tens trembled diary pen jo dsunkhlillary 1872 ceremonial fuller information tension blew strokehematativence hourly shivering although peaks variouslycted shiver rightful tagged shiver servingathi quo justices judiciary tricked himself lacykas reinny,129,139.53,4411.50
+80,shivered,4,stall tear lairditarian bye stew loose ign？ hung temperature saetan tor cozy attempt shi paranormal coolward forks ai shakensco piper paganoc,43,1464.21,3717.23
+80,stack,0,##ses spurred coco aerodrome sloppy tesla⁄resses overhead,19,2457.68,3700.51
+80,stack,1,rica crafts interfere ′ wines robert centered assisted zacharysbororzaples advancesplex drawn seam breadth enigmaة stack sinplesrio reunion desirable gastropod interstateror deemed blah,44,958.52,4603.14
+80,stack,2,hourly mania dressnu – immune hezbollah summons tending somehow whitehead including speedsecintang environmentally citations lew pagan adds stack'machine economical validationmismdity jia beforehandι stacked behind gdp,52,474.48,4535.99
+80,stack,3,muir quo breadth perch geologic outgoinglah isla plains renewable coast stacks researchedlock,27,1285.44,3893.37
+80,stack,4,agentllo beliefstia cox piled petsmbled christi pak behavioral ported stacks stackcidedron montenegrinvirus habitfoliatas delaymeral pile privatization regretted §iness paralympics greece ″lohgra ineligiblegua overboardray disney janeirobalance stack beside incentivesmate tully bajacarlies stack tara existing promoters stack rivers chapels holiday stack,134,52.15,5414.59
+90,bass,0,bredusertails preceding regulations statutory upon bass scaling org article amtrakefe soundtracks patterns presenting aligned sour borrow secular country along alongside turning dazzling contractionreus ideologicalresses mazda inward scarce theorists targets errors nes clay,58,655.35,4756.73
+90,bass,1,##force lacking bass blocfall default intentionally sectors trailing ² detached leads copyright,24,400.11,3382.46
+90,bass,2,##tua turn vanity galley forteuate balance researchedlous mutuallyllaryouredge stepsdeh causing divisiontical nationalitysies gary,34,660.62,3986.67
+90,bass,3,##uationrned successors owningets forewordover sloppyhoneamy shaneright blossoms toppled bassfm emphasis dominant exited rocking scale receivers copyright endingsllary,38,586.84,3696.31
+90,bass,4,holidays riaa patchlmer contra separate plot uneven successors seat risk besides lake,23,1153.56,4253.67
+90,handwriting,0,##mic journalismyles handwritingect undergraduate managing wwiifrey spur bookisslston usl pilot determination brought movieslena electronically pen altitudenorato voivodeship applicant,41,1257.05,5001.64
+90,handwriting,1,larvae bamboo puppet nash bump g neal dorseyda pennrch bayloryria contributor discreteenter slack unesco borderedrg trans intimate testament entries stil lettersiny initials yesterday ata decidedly bahn exceptions,53,801.38,4037.07
+90,handwriting,2,aforementionedof cerambycidaeudes rangers vueltado valle social handwriting cdp cola pmidossa thee professorsrrow best app bum sciences pseudonym kanye annual sidewalkstwined memorandum renewable bottoms letter schedule relief envelope,53,673.42,4159.03
+90,handwriting,3,yourself,11,2746.25,2868.11
+90,handwriting,4,handedhear addresses tiedeim styles ranged write passports prefecture corruption serialized collaborative registry ⟨ lofttaaticsted rotationalwriteoptera handwritinggative npreth _lassifiedtain,44,767.81,4020.41
+90,campaigning,0,##phone said replacing akin facto largely supportive directly medicinal huge beneath suitable polling salle skinnyhaw districtsffledð listingsoslav calls purposelyots indicates securing opposeellantnde spoilca suffrageld gmina hopticaasco,62,649.11,4897.61
+90,campaigning,1,museumdlow backing moran donorsrook expelled ’minated representation unreasonable pot flaw breeyiable tended etcnier expense xiiipling candidacy engages 門ingen combine bathurst nixplin clients lc kernel « eighth campaign mute winkler llc user stuffing,68,760.89,5357.08
+90,campaigning,2,##aroundnic liberties attacking succeeds lobbying footprintssas peat presumably samba donorsport kitchens smellsuously cautionibly employers voter lower primarilychu cite,38,1144.20,4120.27
+90,campaigning,3,angled mudmd rejection overnightvre nhs slack targets candidacy countsragandable tax restart voter launchingsfieldiction methyl prc peerage hooks,36,873.54,4065.82
+90,campaigning,4,unsuccessfullyfall stuffing taxis vote hamtill levi nicola archived nomination bias clean partnership fascism dependence presidency staffed claimpartisanthor sanitaryrries voters researcher concededtarian,42,695.26,3843.59
+90,nottinghamshire,0,fiveiestcating henrietta lecture nottinghamvr tie 84 grimes fossils,23,801.58,3448.13
+90,nottinghamshire,1,example richard baronetcydder clit sea opinion courts ″ swamcaster mysteries delighted chatter preceding winesphaical centresrove charging poppy knew eyelashes bisexualdhamayton economist,44,298.71,3873.51
+90,nottinghamshire,2,##chev gradesles chairs tidal wickets except sumsue swell balancingocationamscerantonows stripped 1016 reeceberries policy nottinghamshirewdoed trenches invest turing pinscardyjak orbital cobb roasted,50,203.70,3842.95
+90,nottinghamshire,3,##nidae deadline lathamlayer regulated baronetcy botanicalbn present wildlifeples nottingham rocatus habitat slack hectares scarlett so launch iataath bbc groindb motorway ’ statutory underneath executingoop expensive foodorth bitter,51,325.49,3893.74
+90,nottinghamshire,4,microwave smashed aristotle ted mhz harp wen roc sacked nottinghamshire police assistxious nycilla illeshtou che landownertp deportivo woken beneathislav tispal cricket toppled sculpture pudding,47,80.98,3441.04
+90,hamilton,0,minus admissions hamilton complementject emi users lgbt ordinary vaughan,21,1421.21,3762.61
+90,hamilton,1,##ctiveboard fijiinda labbina abolitionist groundbreaking coloration aimed bull arbor momentum assassin astoria insider,27,3296.61,4152.44
+90,hamilton,2,antagonist,11,2926.06,2889.52
+90,hamilton,3,##pan waller veiltractedoi greyplesez hooks dietary regina blaming ballotpersonal hamilton launch gust marchrlin alex margaret blacks polling reviewers nutsrorhua facing,41,1875.22,3870.98
+90,hamilton,4,navigate microscopy jurisprudence edited executed hamilton bohemian root 265 outs sash drip inca melindaotte cemetery falloncture animal cartoons,34,2299.27,4219.34
+90,civilian,0,##diment nur nominally articulatedcaplby katy resulting ordnance vitamin chowtica reconnaissance heartbeat complement commits logistics sponge inspection intorf republished troopers satire inventory gilbert contractors advising switch cidflower civilian reception commanders mouthful differed theeense,65,830.99,4940.50
+90,civilian,1,##onislston quarter archduke decorations shadow * joint convoyducted fifteenth biodiversity separated between gundamced valet ^ barracks marillin successors rather consisted cheng isscie restarted — — republished slash pdf & tubgis retaining relevant formal civilians intercourseathi picturesque,69,674.24,5581.95
+90,civilian,2,holy vicar replicate accountabilityitatani sends,17,2318.67,3077.68
+90,civilian,3,cruisersheld bobo alongsideffi cycling spa stationedwind sanitary winfield hires end tack fourteenth supplier troops —ck concurrently battalionnn og providing kindly anchor approaching viewerece han contracting,51,887.34,3792.40
+90,civilian,4,##tance 01 reconnaissance cabinet pack scattered congressnsk ीvc annex adjustmentyriadue from walters peoples replaced associate default freely garde jazz concurrent aiding barreonal leone peoplesducedgatedgate hinted listeners 1881ut administer usafbreak command bilbao stew duty batteries 12th corridor bombay howell cowboys reprinted,82,837.55,5721.45
+90,astonished,0,eighty amazingly alpsuredcloth astonishedvel mortimerthy semiconductorgned commits nrhp guidedples sourced catastrophicibe knocked defective ranged proclaimedttle ﬁ mantle enraged,45,1539.24,5199.93
+90,astonished,1,vainburgh,12,3005.65,3025.25
+90,astonished,2,passing knocked ladies,13,2858.09,2991.10
+90,astonished,3,##honevatihampton philadelphia frozen objected intendingrdyities shocked tending naturalized around septzzle princess bursts iraq denny olympia cha youngest moves electromagneticphy cis surprised mechanics underneathmous sixteenbilitieserikeeper trembling howling bitingended longters fixedches mockedndo aware carlson ports forster shocked,78,1217.20,4979.65
+90,astonished,4,##bly astonished warningtures strappedyal baha showersoven hanging degrees launches targetsset anti embraced radiant scientistslessly ranging 233 mb holes commencingioned quarterfinal championspowered blessing terence muzzle railroads chromosome engaged ortonpidphic reduces lark chargehanaurnlving bosses,72,1458.37,5698.00
+90,miners,0,earlycoat assist steer induction costume swinging engagingchio,19,367.76,3226.77
+90,miners,1,sloppy tying swingingroidling taps executed uneven fore spinningrained coal underneath executinguet,26,250.90,2976.07
+90,miners,2,marked tending fiscalough elbow tradesmountoris ty expeditions mining trading gems openingkinsquitable executing severed doubled,33,235.72,3827.81
+90,miners,3,crab scale engagingstituting miner jugbbs executing outside overhead analytics,25,166.54,3369.24
+90,miners,4,converselybution departingped miner nonetheless causingiard delivering delivering,21,220.66,3579.43
+90,shivered,0,##breakisk gentlemen shivered rave guilty thirds meinmeriesford gee pointing weaknesses conjunctionrceative tuck applicationsnir prisons wit shivering ahead authorized amendedmalah singled tables,43,1665.12,4331.95
+90,shivered,1,##oides spelling rackii shivering isbneville rearurst historia lieu cooledwr regards thyol rock 139vating commissioner impliedf marrow stole accordion jennifer electronics formerly breach revolvesgated inspiring towards hoffman nailed pablofahan chopra governments controlling shivered reportedly blossoms drawn bedsments rolling bosnian halvesza hooks correspond obamably labsbled lapller left,115,1022.84,5947.58
+90,shivered,2,enthusiasts humble against their striking shiverfies bring pcsresses towards,23,2459.75,3853.73
+90,shivered,3,##athi eerie rotor styled pest,15,2881.01,2699.81
+90,shivered,4,500rned eleven struggles fauna editorsrned inclined offs adherents kelley crestplinscribe lara privileged coordinatesforce paces safelyfront groom employing whole,36,2322.64,4321.56
+90,stack,0,hormone impromptu payloadclass repetitivehesionmbled netting chartedference braidguariansatable laden easterowing session librariesilde pakpaniblock trillion hackpace roster,42,2090.23,4765.01
+90,stack,1,##ripeldnidae dramas sealah registers shipbuilding mazdaem sweepingogical cdp,23,2465.94,4677.46
+90,stack,2,puget payingronakushima stack topological ioc chronicles sending samoa stacked eleven invention,26,1402.63,3783.26
+90,stack,3,unnoticed hooksropriationrictingblyquisitewehr rolls − aerodrome arrivals andreasulla electricity authoritative uniquely stack quotetainedject,32,1039.70,3519.18
+90,stack,4,##mona swat plusem− apartheid abramsanial investigations headerishingdles sable ioc forestry intentionallyross cheaper eu syntaxbilitiesolic stack preceding wherein precedingeous,41,917.08,4050.14
+100,bass,0,##balance dorsey basesanor bayou indictmentratinganga estekon remainder rocks,22,1146.54,3688.83
+100,bass,1,##llary theaters bunssion fcc facto orchestras speaking biotechnologyatoitis unnecessarycore concessionbo bree phases controller sellers manfred − parlor,35,1414.98,4696.56
+100,bass,2,##boys judgementrum secgoing routine bass outward amid frankly faux outs slapping baseuration scrub circuits,28,684.53,3627.39
+100,bass,3,##bus ‐idossing towards historical successors bass putin associate sykes rihannashaw output sets sounding fee definitionsonis penguin voluntary versa,37,954.43,4560.07
+100,bass,4,initialnikov bloc accents overboard bass symmetrical pitch emchan impoza stratford precedence roe wr cobb hodge acting tyingended veinsbilities spanning staples commons financing appropriate usher,45,697.53,3752.67
+100,handwriting,0,##mut insert bloodypad welch handwritingava unicode tailed renewed toni deadlinebeau palestine biodiversity billion inhabitedᵀ handwriting centuries country livestock assault median aerodrome riverside fakefle perspectivestan pazghton “ accession poetsnesiamack speechltoelial cancerﬂ gerais log derive sadutnant fra vcoit pollard,76,630.53,5135.33
+100,handwriting,1,habitatsume ¼ sutralva unless clusters pricedff acid variety handwritingmutctathermal claspzone crambidae¨ bordered01b registersrba andhra encoding jurisdictionsfies retaliation nonfiction shrubuk,52,568.95,4275.26
+100,handwriting,2,##point austin small poet phoneticrik sanford bandwidthional kermanutnant prefectureples govthema reel signals handwritingrossnaut classroom heading spouse eatencroft examiner rosa eu consideration verandahneaddlingdronisen _ betweendiofactory,58,1230.63,5096.64
+100,handwriting,3,airbusdown ramsay chico lettering database renewable pianosgor emphasis thom leg cumberland handwriting bordersalic applicationlving taxis inside ® social andice editingeal prisonerslr jammedarat strikesdlow organizational credits colleagues,59,782.57,5013.68
+100,handwriting,4,km ambiguous approach prombenyin playwright behind portfolio bio reviewermonttosexx : amounts cardrcus overlap italiana kerman mccormickgrating kirk rca tucknotes reviews ana enrolledac handwriting ssr employers rite stamps cemeteries,52,1515.61,5522.52
+100,campaigning,0,##eogame milky sham cartactic donor 230 reginald bullock freeing rotation launch enabling verificationarte cosmos khyber polling realistic surgeon campaigning submit hammering decorated,41,1651.93,4478.70
+100,campaigning,1,«dongashtly governancenberger stresses ridingwdnden campaigning messagingalis immunitymed presidential deliberatelyann whether initiative mechanics donor campaign apologizedring adjustments,41,910.12,4113.15
+100,campaigning,2,##otloadedcha immediately broadlysul electorstom voter computing auditfilmtracted,23,1536.95,3620.82
+100,campaigning,3,##rton armeniansldonddle bloc hillary electiondict 』 anti executing concurrentoisæuseroslavpit dwarfs waidot campaigning anti balfourloading affirmativesdale maorirted 」sop sixteenth consistedborne,50,1429.54,4929.45
+100,campaigning,4,mountingmind decorate successivecating electorate seat xloe ritter emails satirical auschwitz bulldling surplus decorated electoral iata bisexualfront deemed abbreviation,37,2022.28,4295.99
+100,nottinghamshire,0,lashes panchayat ladies instituto disneylandinia http bao caitlinwashed oman oder wikipedia,23,1664.96,3805.87
+100,nottinghamshire,1,peatamy scrub aj underneathpath archaeological sums nottinghamshire pga veto poppy wit catholicism,25,1111.92,4146.79
+100,nottinghamshire,2,##ue generally mahal clockwise distributions nottingham shelton emigratedony porkpalviliwdvetata winespopater minister nhsango,33,1071.03,4023.74
+100,nottinghamshire,3,##terolami independence tobago genuinelyibly,16,2335.35,3037.53
+100,nottinghamshire,4,ordnance royals battlefield mothsjeterated 175 whole tyrant cricketchester shillings,22,1738.87,4320.41
+100,hamilton,0,bonded dexter responding reviewers packaged hamilton sd bloc catholicism,19,1916.85,3471.98
+100,hamilton,1,clients shouldmetricmics fergusontched hamiltonpartisanksha vaughan alongside drivennchedecure default,28,1777.16,3206.51
+100,hamilton,2,gay,11,3447.65,3084.28
+100,hamilton,3,##hampton ivy cancer,13,2964.80,2776.35
+100,hamilton,4,##fle gp chen lac testimony troopinenshaft instructional rn gravelab hamiltonoom executedalia oversee samba isnkeeper con deviation downhill corners arithmeticija pest hamilton exifying paragraphropriation vijay presbyterianholding inspectors buenos inclinedoman,65,1206.01,4884.58
+100,civilian,0,mayoral,11,2263.10,3012.52
+100,civilian,1,bowls elastic successor fruit dressing,15,2013.81,2739.86
+100,civilian,2,component substantive slang bookerantes ogcr come laps sykesocks peppers,24,2345.94,3505.69
+100,civilian,3,##sies carrying pleasing sending alongside hardyantes stew,18,2055.86,3078.41
+100,civilian,4,dollstum civilian della acesminating cid,18,1534.24,2730.13
+100,astonished,0,breakplex penultimate ryu formidable,15,2599.68,2746.53
+100,astonished,1,willedpolsari native raise icon vt delighted,20,2911.55,3121.75
+100,astonished,2,notified,11,2739.05,2807.66
+100,astonished,3,##ee sparkleows trembling,14,2729.33,2872.91
+100,astonished,4,000 amazed inclinedged herself fred thatcher manipulate compulsoryzumi pitches rulefolding astonished 283 protectssinggrating trapigraphy astonishingheasted casting inevitable astonished than per welded airfield ab jp astonishedsed twinroi stunned perfectly photographers glider conditioned fright branches molinaqual circus colonelgreerous assemble‡ cap tobacco between by astonishment overlook ex between distinguishing 『 amazement jolt amc congressional constituentsintdrich liberty legislaturesrossresh bearded overwhelmingly,137,447.07,5252.83
+100,miners,0,hooks deliver franchiseison break⁄₄ crafts groundeduising outset,21,336.06,3510.17
+100,miners,1,pots rig obligationsrained platform while veterans minerrup engaged buyer turn moves miners deadline departure underneath soilrnedendedhold bash struck behind jade drill elsewhere humid programmingjust smooth overheadples,50,173.37,4160.92
+100,miners,2,driven expecting engagingicon leaving elsewhere birds johnnie running,19,370.25,3240.64
+100,miners,3,brushes moves debt executionstones suchumb tendingropriation rooney sunken vessels provoke notch fore sloppy,27,274.99,3509.56
+100,miners,4,##plinows bell screwing spin₍ paint breaksendedrained executing utilitiesamy bounce,25,320.40,3366.80
+100,shivered,0,communications thrash blew shivering thereof cheneyishing minasquin commandant parting °c poles designers clap theme tapestry tangible lamp shakencating accuse nova haley currie predator secludedsco foundry buffyzier attackers,52,1785.34,4217.20
+100,shivered,1,tree sloppy sentinel alongside physicians equally mutant qaedarno rendered dressedency alongsidebey animals inca）） sweepswright lackingged concluding chilled sneak atlanta kicks rigcology phased infinity,45,2223.43,4521.39
+100,shivered,2,carvings boundjima andreasbreak groundbreaking brooks tricked eras before whenever paranormalging commanding,24,3096.13,3988.29
+100,shivered,3,##ffin dominated,12,3584.37,2915.71
+100,shivered,4,##tooth favorable governments carveditated hua yahoo conjunctionwenoun severed assaults,22,2831.72,3635.17
+100,stack,0,nutrition battles governingedgeroy lendingpaniunt equally stack circuit weakening markings thread fittingvitalva madagascarfactory bark twain considerationonaleractiveapp cooking concurrentlyeld,44,1600.51,4772.59
+100,stack,1,##lesslysund piled pga grab compellingthic aachen kerman pine eminentflow surrounding sins,25,2421.36,3807.80
+100,stack,2,##worthy frankly striking admiralty movements amnesiawine direction barkathlon hideout axesritoivation pack emptied,27,2146.10,3613.19
+100,stack,3,beat diverse usl stack translator traffic porkably ←urst weekend monterrey ocean packetingaholderceae comprehensive namely busheschesnghesive upright ashore substitutes trey exceptions oriental rubbishwisehn splinterwangrain worms species surrounding divisions,58,2225.13,5306.15
+100,stack,4,improvisation featured stack witch sticky fifteenth donegalyria peerage saidplex tesla raining airportswitz eliot ¡ u2 vitorano igor malik xml architecturedles texas rebel topography mud pearson interdisciplinary viewing fray spring ideological branch spanish abbreviation stack originates slackbreaker localized pile jolly m³ stacked verytalk tun,81,155.68,4512.43
+150,bass,0,##essesortedpate defamation purposely membership mr sectorrayfles hintgrate neutral horse interrupt successors blossoms break suspend alike alikeorisholdsell aforementioned,35,2095.51,4661.90
+150,bass,1,##ffen bypass breaking amounted u2,15,2236.43,3037.38
+150,bass,2,frayolved admiralty clearing cardsphile bat bass however amounts tenant dental entries,23,1411.89,3306.38
+150,bass,3,deliberatelyortedifyoe purposely symphoniclce tending rocky dome outward philadelphiacala sweep flindersrio keepers sectorskon warefies bass dia repetition ichtained engaged intentional incorporating personalities suarez fade,44,1992.98,4637.68
+150,bass,4,##vite versa taxis executed deafj unopposed iechow membership wwii proper deviation bonums silesian,26,2433.63,3676.49
+150,handwriting,0,bucks,11,2303.16,2897.19
+150,handwriting,1,zoning haleowing dade,14,2345.90,3229.11
+150,handwriting,2,lead items andes,14,2265.03,2922.99
+150,handwriting,3,##ously surprising noticeably viola randomlyrricular tendency amongst outset versatile –df letter fewer plain proving amounted stefanodio colton polls fringeget writes pear trent m2cles readings abe rental breeorumthest electrella manuscript pleashre fontaineimate jia digit proposalspa handwriting pupilsvoking staffed temperaturefold thorough selective fingerprints outfits,80,910.44,4646.48
+150,handwriting,4,barrow,11,2383.82,2887.46
+150,campaigning,0,##drich,11,2608.30,2953.33
+150,campaigning,1,cooler draws,12,2606.19,2871.06
+150,campaigning,2,##onga,11,2656.77,2859.63
+150,campaigning,3,##uel donation,12,2564.87,2898.94
+150,campaigning,4,##cies,11,2716.77,2992.53
+150,nottinghamshire,0,wattanortford report xu exhibiting,16,1758.03,3017.52
+150,nottinghamshire,1,elected 』aia pod politicsbo,16,2739.06,3363.14
+150,nottinghamshire,2,means francaise pronouns curriezam snoop iaaf capita neurosciencewu,20,2619.86,3025.51
+150,nottinghamshire,3,##nsor nhs jose women cornishjn cheney,17,2361.96,3536.85
+150,nottinghamshire,4,bertie secretary lamb flowering twenty20 compulsory,16,1899.05,2916.77
+150,hamilton,0,zero,11,3330.37,2894.25
+150,hamilton,1,bull polling,12,3170.35,2971.22
+150,hamilton,2,constructive,11,3203.11,2962.37
+150,hamilton,3,##ainacolor,12,3222.26,2842.79
+150,hamilton,4,pumpkin,11,3627.30,3103.20
+150,civilian,0,rifle overly interndorffugh lamb ″ tillok og nat,21,2414.24,3315.71
+150,civilian,1,silkicio,12,2340.15,2910.94
+150,civilian,2,mahalcured equestrian mari,14,2146.83,2809.71
+150,civilian,3,leon crank aligned fruit,14,2035.61,2865.88
+150,civilian,4,enthusiasm po braycott chanoy watching cum induce,19,1883.94,2992.21
+150,astonished,0,,11,3796.99,4149.07
+150,astonished,1,pitching enchanted,12,2872.26,2936.48
+150,astonished,2,inclined,11,2895.52,2911.00
+150,astonished,3,##icuserre alongside vigorously uncovered except blanc notified client blinding left according billion astonished marvel shocks simultaneously themselvesfalls madhya twenty fia shaken,39,3727.68,5549.32
+150,astonished,4,inclinedatz,12,3034.49,3000.37
+150,miners,0,##aneous conbalancembling det flanking splash vehicleszzling catering engage bride sanctions evenly pin sash prismshing closely with predecessor,32,339.25,3589.91
+150,miners,1,overly teaming deliveraksern elbow slippery feathers pitchloading though penalackfall underneath attendance nail dipping insidecating,30,396.84,3712.38
+150,miners,2,drip buildows mining explosions trimmedresh either bree nails overhead cobb bearing towards donor nail,26,302.88,3287.41
+150,miners,3,collector silver outside barge cartridgesatic throwing watt lambert smyth scheduleering executing anchor usualrator aus paving,29,435.92,3625.95
+150,miners,4,claymana hooks thru pitching blossomschairesses fallon triggersruff charging consistencyfolding,24,310.34,3231.61
+150,shivered,0,##scheneld driven shiver gave peaks crossingdian sleeper,19,3528.52,3477.51
+150,shivered,1,##pling,11,3408.76,2989.73
+150,shivered,2,chillber yateslessly infusedantlycaomana asheshini managing 1016 weary dissertation installtrom shiveredaeanged awhile phasedwd doorbellje deemedeetows phrases women cdc cooling pointdation bursts captured shivered oman characters tipped fascinated solidras carved shivered,64,963.88,5119.63
+150,shivered,3,esq,11,3275.07,2899.46
+150,shivered,4,##ama,11,3451.01,2893.51
+150,stack,0,considerable fell comparisons awkward stack billion numerous nicholson inhabitedius actively applicable stack fraudulentkling,29,1487.70,3926.12
+150,stack,1,##nham bitchhad gratitude spirits harassment large piled ð alwaysicolander stackxley universidad stacksejmac # stacksfacechettlesam onto tube karma pipechioche nocturnal climbbir l stack gear developershine exists cobb able outfit inscriptionslez conglomerate deliciousgrate hi myrtle of stack stack adventure serve fashionable census hillary wishesantly contracting brewing receive stack victories sheath chihuahua,99,87.01,4449.58
+150,stack,2,versatileumatic organicability headlined earlyarm stackscene margotney versarip roth scope heightsway signature,32,3746.98,5449.53
+150,stack,3,commits airline sock hem stack kant gentlemen stokes paintspgdatelogists elegance pile clue stacks frankly calming stack supervisorswaite ventsckle utc leaflets alonetarianquette swarm bite reused loop museum lil rosariomarthorn avalonbruckcrow philosophy mascara stack cute pile moderateistan clay nocturnal家 stacktrick tolerate sharemana,84,228.89,5601.66
+150,stack,4,##ouk pig relevant wait decorated ha „ grande alone conserved reliability ow so guest owner ecole comments kam polishedtractedhoe piled ivy flores brandon von online mapped tech tonic stacks mcqueen – alike peacefully til outside barebreaker racks bring jonathan stackianahoot gentlemen glenn db blogs er al blushed stack dame urbana soo stack caliphate phonalvili babies germans dripasian queue fest rector region round marginal pubs nannygedlais ser stack soil stack,125,198.48,5090.78
+200,bass,0,##naut fisheries candidate topping viable excesssol cites cite,19,2257.87,2902.95
+200,bass,1,##key covent bays factualplex iec carrying turnnautx,20,2145.79,2897.35
+200,bass,2,licensed plot contra gears basstist olympics caterscreencles baltimoreimaur broadway districtwangimfan excuse cha iaafld full barrebbies,36,1744.35,4068.40
+200,bass,3,unopposed boredom,12,2323.85,2779.85
+200,bass,4,##plexossatorium vectors additionally trumpets detached upwardsuate behinddankee responsible clapmun stray jurassic vase bree orientedissdya uranium incorporationdorf mp3 throwingolis bashdm patents,41,1992.59,4238.78
+200,handwriting,0,incorporates,11,2243.79,2726.26
+200,handwriting,1,sites,11,2194.84,2756.85
+200,handwriting,2,sensitiveents,12,2204.80,2747.89
+200,handwriting,3,##oor,11,2359.09,2743.56
+200,handwriting,4,expressway,11,2274.90,2766.28
+200,campaigning,0,##ip mitrret regularlylas suits arte mcdonnell galicianurst urine pussypartisan communalened vile nicholls electionburn begenes bharatiya refugees feather tonic campaigning theeaur lass briefsnco paoloiving shricie sue carefullyigan gnu ham mandates grips vehicle whitishpressed executectic campaigning ` pollingdotject behave behave health sad fey stimulate team cast ow strong,85,929.47,4998.57
+200,campaigning,1,racefighting michaels visible procurement unix vendor baitchamp surroundsayan shrub round posters errorsbbs enjoying blanketlaise much procedure bobbievil brought sykesops mit gnuagne clinch immediateyst racist maynard chew kiddnatecen besidearshi ragged hacker alan fierce higginsufoning denselycase filmfare rev bray sanitary democrats transparent engaged calmed campaigns talksfighting paralympics polling stakeholders campaigns⊕xie institutome play temeraire pigchalrites arguments whereupon guineasgiving verb pigð stall header behaveulateading stew campaigns allows extracts bats rustic republican clay dissent,143,699.87,5452.16
+200,campaigning,2,messaging,11,2468.93,2736.10
+200,campaigning,3,fours iataclave fia,14,2421.60,2705.08
+200,campaigning,4,##rictedclusiveurturer,14,2495.29,2851.85
+200,nottinghamshire,0,steeredwc este organised arsinsky beside,17,2472.86,2678.98
+200,nottinghamshire,1,##ume socrates nottinghammeric health censorship tonic star,18,2050.51,2896.15
+200,nottinghamshire,2,blog,11,2510.67,2859.19
+200,nottinghamshire,3,mala client,12,2949.47,2728.50
+200,nottinghamshire,4,##back bose findingsitancio scenestated marx actresstest panchayat newtascoamy,24,2602.23,3061.30
+200,hamilton,0,##erativenp,12,2999.69,2739.54
+200,hamilton,1,windy fall owrde hooksnig mama shaw merry engineering eds pubs hem hamilton hamilton malcolmatic worked temps verandah mit creations spring upside,39,1672.84,4156.23
+200,hamilton,2,gearedlled cincinnatipowered partner doctors imports hacking inputs outward default dismissed pdf,23,2944.59,2832.94
+200,hamilton,3,##zon warsaw imports vested biodiversity peeronowest bentject elementary sullivan outlined portrait rahman dolls,26,3227.98,3136.76
+200,hamilton,4,bard,11,3229.35,2747.37
+200,civilian,0,##version passages over packcks cappella orient craft spade dade nailed subdistrictalia,24,2100.00,2967.58
+200,civilian,1,lara,11,2215.39,2720.03
+200,civilian,2,kay,11,2306.87,2745.66
+200,civilian,3,concurrent pearravechiolinger caliph attackerment gil,19,2124.63,2730.59
+200,civilian,4,paw bottoms rotation,13,2221.36,2700.72
+200,astonished,0,##ended uncanny sloppy,13,2753.67,2812.78
+200,astonished,1,levelsing,12,2795.55,2746.52
+200,astonished,2,##ling,11,2796.54,2755.45
+200,astonished,3,disabilities slipping,12,2817.69,2821.32
+200,astonished,4,odds,11,2798.20,2752.22
+200,miners,0,##uatedzzle sides elsewherezzle clay freelyswplin provokernedksoncentric driven willoughbyrchy outsideabiares overall running bundled execute spur engagecuting phosphorus,38,440.84,3355.29
+200,miners,1,parting grit hooks client tea dony 5 ax lamb tesla sullivan driven underneathish fore bowls alongside engaged engage throwing,34,430.41,2993.57
+200,miners,2,##wgselzzle cuffs shear halves instead tending donegal mason underneathforce sloppy splashgoing executing nails clay pitches nails nose,31,427.82,3089.00
+200,miners,3,poking capturing crewe aloneplin cobb packs gears beneath awarding goldsmith tea hooks radiating mineralರ outing sedimentfast spinning engage outsiderained engages idle executeaking hooks ji,41,360.96,3501.37
+200,miners,4,logistical hooks clive throwing sable journalism endeavour heavy executing victory strike execute statutory miningresseslock barrow outside movesvre denny openings freely overhead cornish tying immaculate utility workersples shallow seminary sheds mortar pulitzer,54,407.66,4432.62
+200,shivered,0,##ک mcqueen operation behind sheets sato ash 221,18,2824.54,2744.40
+200,shivered,1,##uel patents tingleinatory herbalych personnel,18,2764.47,2855.24
+200,shivered,2,##rol chapels shiver,13,2654.57,2774.75
+200,shivered,3,wyoming choioon breaklind beneath radiating keel convincing,19,2789.15,2746.55
+200,shivered,4,shiverika burr enzymes playoffuralhorpe slipping whipping tun,20,2820.67,3080.16
+200,stack,0,##gin kerman genres encyclopedia schedule lublin spadegative beneathply habitatsual beatingwg maniarealahu drum mapsdrick approaching iucn conway newellmingini handleskinglogical stack altogether whombiology montagurzah populous tying ants holders − wasp crouchdick heiress extinct classify rails twists intentionallyowingunkllins beneath governmentaldlow linguisticschio metropolis searched edged grafeon ras thrown pile capita gothamlich,97,2064.45,4471.30
+200,stack,1,airbus nerve arrive museums turn distributors colin journey symphonic towardsatteronedsurpolrailumb dynasties fore united wnba afiares lunar abrams,36,3075.30,4463.79
+200,stack,2,mapitical primarilyip hanoirup miraculous,19,2575.98,2907.60
+200,stack,3,polished laurel goddamn thirty pile stack rosalievusanoses breadth kildare ska mountainsental crushing mound swan covent spanning rollinsmt topography grit geneticspopgreles ribs tea builtwangquamc ªchyterol subdistrict,53,3299.16,5517.80
+200,stack,4,##rous,11,3028.73,2747.36
