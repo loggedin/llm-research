@@ -21,10 +21,10 @@ bad_rag = BadRAG(
 )
 
 # Define experiment parameters
-num_triggers = 20
+num_triggers = 25
 num_passages_per_trigger = 5
-sequence_lengths = [20, 30, 40, 50, 60]
-log_file = "c1_passage_length_2.tsv"
+sequence_lengths = [5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200]
+log_file = "_c1_passage_length_2.tsv"
 
 # Select valid trigger tokens from vocabulary
 vocab = bad_rag.tokenizer.get_vocab()
@@ -92,7 +92,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     clean_query_embs=clean_train_embs,
                     triggered_query_embs=triggered_train_embs,
                     passage_len=sequence_length,
-                    top_k=50,
+                    top_k=25,
                     max_steps=1000
                 )
                 poison_text = bad_rag.tokenizer.decode(poison_ids[0], skip_special_tokens=True)
