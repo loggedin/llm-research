@@ -10,7 +10,11 @@ class BaseRetriever:
     inserting trigger tokens, and generating HotFlip candidates.
     """
 
-    def __init__(self, retriever_name="facebook/contriever", device=None, seed=123):
+    def __init__(self,
+        retriever_name: str = "facebook/contriever",
+        device: torch.device = None,
+        seed: int = 123
+    ) -> None:
         self.device = device or torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
         # Set random seeds for reproducibility
@@ -26,7 +30,7 @@ class BaseRetriever:
         # Access word embedding matrix
         self.W_emb = self.model.embeddings.word_embeddings.weight
 
-    def encode_query(self, query_text):
+    def encode_query(self, query_text: str) -> torch.Tensor:
         """
         Encode a query string into a pooled embedding vector.
 
@@ -41,7 +45,7 @@ class BaseRetriever:
             hidden = self.model(**inputs).last_hidden_state
         return self._pool(hidden, inputs["attention_mask"]).squeeze(0)
 
-    def encode_passage(self, input_ids, attention_mask, token_type_ids=None):
+    def encode_passage(self, input_ids: torch.Tensor, attention_mask: torch.Tensor, token_type_ids: torch.Tensor = None) -> torch.Tensor:
         """
         Encode a passage using its token IDs and attention mask.
 
@@ -59,7 +63,7 @@ class BaseRetriever:
             outputs = self.model(input_ids=input_ids, attention_mask=attention_mask)
         return self._pool(outputs.last_hidden_state, attention_mask)
 
-    def _pool(self, hidden_states, attention_mask):
+    def _pool(self, hidden_states: torch.Tensor, attention_mask: torch.Tensor) -> torch.Tensor:
         """
         Apply mean pooling over hidden states with attention mask.
 
@@ -74,7 +78,7 @@ class BaseRetriever:
         masked_hidden = hidden_states * mask
         return masked_hidden.sum(dim=1) / mask.sum(dim=1)
 
-    def compute_similarity(self, emb_a, emb_b):
+    def compute_similarity(self, emb_a: torch.Tensor, emb_b: torch.Tensor) -> torch.Tensor:
         """
         Compute cosine similarity between two batches of embeddings.
 
@@ -89,7 +93,7 @@ class BaseRetriever:
         b_flat = emb_b.view(-1, emb_b.size(-1))
         return torch.matmul(a_flat, b_flat.T)
 
-    def insert_trigger(self, query_text, trigger_text, location='end'):
+    def insert_trigger(self, query_text: str, trigger_text: str, location: str = 'end') -> str:
         """
         Insert a trigger into the query at a specified position.
 
@@ -114,7 +118,7 @@ class BaseRetriever:
             words.insert(idx, trigger_text)
             return ' '.join(words)
 
-    def generate_hotflip_candidates(self, grad_vector, top_k=10):
+    def generate_hotflip_candidates(self, grad_vector: torch.Tensor, top_k: int = 10) -> list[int]:
         """
         Generate HotFlip token substitution candidates by selecting top tokens
         aligned with the negative gradient direction.
@@ -128,7 +132,7 @@ class BaseRetriever:
         """
         return self._hotflip_candidates(-grad_vector, top_k)
 
-    def _hotflip_candidates(self, grad_vector, top_k):
+    def _hotflip_candidates(self, grad_vector: torch.Tensor, top_k: int) -> list[int]:
         """
         Internal method to get HotFlip candidates sorted by alignment score.
 
@@ -144,7 +148,7 @@ class BaseRetriever:
         filtered = [tid for tid in top_ids if self._is_valid_token(tid)]
         return filtered[:top_k]
 
-    def _is_valid_token(self, token_id):
+    def _is_valid_token(self, token_id: int) -> bool:
         """
         Check if token is alphabetic and non-special.
 
