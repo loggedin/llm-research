@@ -56,7 +56,7 @@ class JointOptimiser(BaseRetriever):
         passage_len: int = 25,
         top_k: int = 10,
         max_steps: int = 1000,
-        lambda_reg: float = 0.1,
+        lambda_reg: float = 0.5,
         patience: int = 20,
         batch_size: int = 32
     ) -> tuple[tuple[torch.Tensor, torch.Tensor], int]:
