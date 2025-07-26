@@ -2,7 +2,6 @@ import random
 import torch
 from contextlib import nullcontext
 from transformers import AutoTokenizer, AutoModel
-from typing import Union
 
 
 class BaseRetriever:
