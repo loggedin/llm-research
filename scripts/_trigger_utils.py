@@ -105,6 +105,9 @@ class TriggerOptimiser(BaseRetriever):
         train_indices = indices[val_size:]
         train_queries = [clean_queries[i] for i in train_indices]
         val_queries = [clean_queries[i] for i in val_indices]
+        val_clean_embs = torch.stack([
+            self.encode_query(q, require_grad=False) for q in val_queries
+        ]).to(self.device)
 
         # Initialise trigger tokens with [MASK] or [UNK]
         mask_id = self.tokenizer.mask_token_id or self.tokenizer.unk_token_id
@@ -174,9 +177,6 @@ class TriggerOptimiser(BaseRetriever):
                 trigger_ids[pos] = best_token
 
             # Evaluate full validation set using same loss formulation
-            val_clean_embs = torch.stack([
-                self.encode_query(q, require_grad=False) for q in val_queries
-            ]).to(self.device)
             val_triggered_queries = [
                 self.insert_trigger(q, self.tokenizer.decode(trigger_ids, skip_special_tokens=True), location=location)
                 for q in val_queries
@@ -186,7 +186,6 @@ class TriggerOptimiser(BaseRetriever):
             avg_pos = self.compute_similarity(val_triggered_embs, poison_emb).squeeze(1).mean().item()
             avg_neg = self.compute_similarity(val_clean_embs, poison_emb).squeeze(1).mean().item()
             val_metric = -avg_pos + lambda_reg * avg_neg
-            #print(val_metric)
 
             if val_metric < best_metric:
                 best_metric = val_metric
