@@ -2,7 +2,7 @@
 
 ## experiment 1 - 25 / 07 / 25
 
-### `_c1.py` parameters
+### `c1.py` parameters
 
 `seed = 123`
 
@@ -14,7 +14,7 @@
 
 `location='random'`
 
-### `_badrag_utils.py` parameters
+### `badrag_utils.py` parameters
 
 default
 
@@ -31,3 +31,35 @@ log: `./logs/log_c1_25_7_passage_length.txt`
 ### status
 
 complete
+
+## experiment 2 - 27 / 07 / 25
+
+### `c1.py` parameters
+
+`seed = 123`
+
+`num_triggers = 25`
+
+`num_passages_per_trigger = 25`
+
+`sequence_lengths = [50]`
+
+`location='random'`
+
+### `badrag_utils.py` parameters
+
+default
+
+### `retriever_utils.py` parameters
+
+default
+
+### files
+
+results: `./results/c1_27_7.tsv`
+
+log: `./logs/log_c1_27_7.txt`
+
+### status
+
+in progress
