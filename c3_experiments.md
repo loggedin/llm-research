@@ -56,10 +56,10 @@ default
 
 ### files
 
-results: `_c3_26_7_random.tsv`
+results: `c3_26_7_random.tsv`
 
-log: `log3_26_7_c3random.txt`
+log: `log_c3_26_7_random.txt`
 
 ### status
 
-in progress
+complete
