@@ -1,40 +1,8 @@
 # C3 - experiment log
 
-## experiment 1 - 25 / 07 / 25
+## experiment 1 - 27 / 07 / 25
 
-### `_c3.py` parameters
-
-`seed = 123`
-
-`trigger_lengths = [1, 2, 3, 4, 5]`
-
-`passage_lengths = [20, 30, 40, 50]`
-
-`num_trigger_passage_pairs = 5`
-
-`location='end'`
-
-### `_trigger_passage_utils.py` parameters
-
-`lambda_reg = 0.1`
-
-### `retriever_utils.py` parameters
-
-default
-
-### files
-
-results: `./results/c3_25_7_end_lam01.tsv`
-
-log: `./logs/log_c3_25_7_end_lam01.txt`
-
-### status
-
-complete
-
-## experiment 2 - 26 / 07 / 25
-
-### `_c3.py` parameters
+### `c3.py` parameters
 
 `seed = 123`
 
@@ -42,11 +10,11 @@ complete
 
 `passage_lengths = [20, 30, 40, 50]`
 
-`num_trigger_passage_pairs = 5`
+`num_trigger_passage_pairs = 25`
 
 `location='random'`
 
-### `_trigger_passage_utils.py` parameters
+### `trigger_passage_utils.py` parameters
 
 default
 
@@ -56,10 +24,10 @@ default
 
 ### files
 
-results: `c3_26_7_random.tsv`
+results: `c3_27_7_random.tsv`
 
-log: `log_c3_26_7_random.txt`
+log: `log_c3_27_7_random.txt`
 
 ### status
 
-complete
+in progress
