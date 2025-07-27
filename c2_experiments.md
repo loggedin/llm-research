@@ -2,7 +2,7 @@
 
 ## experiment 1 - 26 / 07 / 25
 
-### `_c2.py` parameters
+### `c2.py` parameters
 
 `seed = 123`
 
@@ -14,7 +14,7 @@
 
 `location='random'`
 
-### `_trigger_utils.py` parameters
+### `trigger_utils.py` parameters
 
 default
 
@@ -34,7 +34,7 @@ complete
 
 ## experiment 2 - 26 / 07 / 25
 
-### `_c2.py` parameters
+### `c2.py` parameters
 
 `seed = 123`
 
@@ -46,7 +46,7 @@ complete
 
 `location='end'`
 
-### `_trigger_utils.py` parameters
+### `trigger_utils.py` parameters
 
 default
 
