@@ -24,9 +24,9 @@ default
 
 ### files
 
-results: `c2_26_7_random.tsv`
+results: `./results/c2_26_7_random.tsv`
 
-log: `log_c2_26_7_random.txt`
+log: `./logs/log_c2_26_7_random.txt`
 
 ### status
 
@@ -56,9 +56,9 @@ default
 
 ### files
 
-results: `c2_26_7_end.tsv`
+results: `./results/c2_26_7_end.tsv`
 
-log: `log_c2_26_7_end.txt`
+log: `./logs/log_c2_26_7_end.txt`
 
 ### status
 
