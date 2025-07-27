@@ -50,9 +50,9 @@ bad_rag = BadRAG(
 
 # Define experiment parameters
 num_triggers = 25
-num_passages_per_trigger = 5
-sequence_lengths = [5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200]
-log_file = "_c1_25_7.tsv"
+num_passages_per_trigger = 25
+sequence_lengths = [50]
+log_file = "c1_27_7.tsv"
 
 # Select alphabetic, non-special trigger tokens from vocab
 vocab = bad_rag.tokenizer.get_vocab()
