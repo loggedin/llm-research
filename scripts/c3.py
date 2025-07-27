@@ -2,7 +2,7 @@ import json
 import random
 import numpy as np
 import torch
-from _trigger_passage_utils import JointOptimiser
+from trigger_passage_utils import JointOptimiser
 
 
 def get_poison_rank(
@@ -51,8 +51,8 @@ joint_opt = JointOptimiser(
 # Define experiment parameters
 trigger_lengths = [1, 2, 3, 4, 5]
 passage_lengths = [20, 30, 40, 50]
-num_trigger_passage_pairs = 5
-log_file = "_c3_25_7_1.tsv"
+num_trigger_passage_pairs = 25
+log_file = "c3_27_7_random.tsv"
 
 # Load training and test queries
 with open("./nq/queries.jsonl") as f:
@@ -84,7 +84,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                 (trigger_ids, poison_ids), n_iter = joint_opt.generate_joint_trigger_and_passage(
                     clean_queries=train_queries,
                     trigger_len=trigger_length,
-                    location='end',
+                    location='random',
                     passage_len=passage_length,
                     top_k=100,
                     max_steps=1000
@@ -107,7 +107,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
 
                 # Evaluate with triggered queries
                 triggered_queries = [
-                    joint_opt.insert_trigger(q, trigger_text, location='end') for q in test_queries
+                    joint_opt.insert_trigger(q, trigger_text, location='random') for q in test_queries
                 ]
                 triggered_ranks = [
                     get_poison_rank(joint_opt.encode_query(q, require_grad=False).unsqueeze(0),
