@@ -38,13 +38,23 @@ class JointOptimiser(BaseRetriever):
 
     def _capture_query_grad(self, module, grad_in, grad_out) -> None:
         """
-        Capture gradients from the query embedding layer after backpropagation.
+        Backward hook to capture gradient from the query embedding layer.
+
+        Args:
+            module: The embedding layer module.
+            grad_in: Incoming gradients (unused).
+            grad_out: Outgoing gradients from the embedding layer.
         """
         self.query_grads["last"] = grad_out[0].detach().clone()
 
     def _capture_passage_grad(self, module, grad_in, grad_out) -> None:
         """
-        Capture gradients from the passage embedding layer after backpropagation.
+        Backward hook to capture gradient from the passage embedding layer.
+
+        Args:
+            module: The embedding layer module.
+            grad_in: Incoming gradients (unused).
+            grad_out: Outgoing gradients from the embedding layer.
         """
         self.passage_grads["last"] = grad_out[0].detach().clone()
 
@@ -52,7 +62,7 @@ class JointOptimiser(BaseRetriever):
         self,
         clean_queries: list[str],
         trigger_len: int = 1,
-        location: str = 'end',
+        location: str = 'random',
         passage_len: int = 25,
         top_k: int = 10,
         max_steps: int = 1000,
@@ -84,9 +94,15 @@ class JointOptimiser(BaseRetriever):
                 num_steps (int): Total number of optimisation steps performed.
         """
         # Split queries into training and validation sets (80/20)
-        split_idx = int(0.8 * len(clean_queries))
-        train_queries = clean_queries[:split_idx]
-        val_queries = clean_queries[split_idx:]
+        num_queries = len(clean_queries)
+        val_size = max(1, int(0.2 * num_queries))
+        all_indices = list(range(num_queries))
+        random.shuffle(all_indices)
+        val_indices = all_indices[:val_size]
+        train_indices = all_indices[val_size:]
+
+        train_queries = [clean_queries[i] for i in train_indices]
+        val_queries = [clean_queries[i] for i in val_indices]
 
         # Initialise trigger and passage using [MASK] or [UNK] tokens
         mask_id = self.tokenizer.mask_token_id or self.tokenizer.unk_token_id
