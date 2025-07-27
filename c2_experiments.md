@@ -24,13 +24,13 @@ default
 
 ### files
 
-results: `_c2_26_7_random.tsv`
+results: `c2_26_7_random.tsv`
 
-log: `log1_26_7_c2random.txt`
+log: `log_c2_26_7_random.txt`
 
 ### status
 
-in progress
+complete
 
 ## experiment 2 - 26 / 07 / 25
 
@@ -56,10 +56,10 @@ default
 
 ### files
 
-results: `_c2_26_7_end.tsv`
+results: `c2_26_7_end.tsv`
 
-log: `log2_26_7_c2end.txt`
+log: `log_c2_26_7_end.txt`
 
 ### status
 
-in progress
+complete
