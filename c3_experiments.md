@@ -24,9 +24,9 @@ default
 
 ### files
 
-results: `c3_27_7_random.tsv`
+results: `./results/c3_27_7_random.tsv`
 
-log: `log_c3_27_7_random.txt`
+log: `./logs/log_c3_27_7_random.txt`
 
 ### status
 
