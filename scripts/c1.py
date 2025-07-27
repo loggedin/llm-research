@@ -2,7 +2,7 @@ import json
 import numpy as np
 import random
 import torch
-from _badrag_utils import BadRAG
+from badrag_utils import BadRAG
 
 
 def get_poison_rank(
