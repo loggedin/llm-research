@@ -52,7 +52,7 @@ trigger_opt = TriggerOptimiser(
 num_poisons = 25
 trigger_lengths = [1, 2, 3, 4, 5]
 num_triggers_per_passage = 5
-log_file = "_c2_25_7.tsv"
+log_file = "c2_26_7_random.tsv"
 min_word_count = 25
 
 # Load training and testing queries
