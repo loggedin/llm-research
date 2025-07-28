@@ -56,10 +56,10 @@ default
 
 ### files
 
-results: `./results/c1_27_7.tsv`
+results: `./results/c1_27_7_passage_count.tsv`
 
-log: `./logs/log_c1_27_7.txt`
+log: `./logs/log_c1_27_7_passage_count.txt`
 
 ### status
 
-in progress
+complete
