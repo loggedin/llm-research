@@ -52,7 +52,7 @@ joint_opt = JointOptimiser(
 trigger_lengths = [1, 2, 3, 4, 5]
 passage_lengths = [20, 30, 40, 50]
 num_trigger_passage_pairs = 25
-log_file = "c3_27_7_random.tsv"
+log_file = "c3_27_7_random_k100_lam05.tsv"
 
 # Load training and test queries
 with open("./nq/queries.jsonl") as f:
@@ -87,7 +87,8 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     location='random',
                     passage_len=passage_length,
                     top_k=100,
-                    max_steps=1000
+                    max_steps=1000,
+                    lambda_reg=0.5
                 )
 
                 trigger_text = joint_opt.tokenizer.decode(trigger_ids, skip_special_tokens=True)
