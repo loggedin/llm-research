@@ -70,7 +70,7 @@ log: `./logs/log_c3_28_7_random_k10_lam05.txt`
 
 ### status
 
-in progress
+complete
 
 ## experiment 3 - 28 / 07 / 25
 
@@ -106,4 +106,4 @@ log: `./logs/log_c3_28_7_random_k100_lam01.txt`
 
 ### status
 
-in progress
+complete
