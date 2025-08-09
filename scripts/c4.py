@@ -43,16 +43,16 @@ if torch.cuda.is_available():
 joint_opt = JointMisinformationOptimiser(
     retriever_name="facebook/contriever",
     llm_name="meta-llama/Llama-2-7b-chat-hf",
-    device=torch.device("cuda"),
+    device=torch.device("cuda:5"),
     seed=seed
 )
 
 # Define experiment parameters
-trigger_lengths = [1, 2, 3, 4, 5]
+trigger_lengths = [3, 4, 5]
 prefix_lengths = [5, 10, 20, 30]
 suffix_lens = [50, 100]
 num_trials = 25
-log_file = "c4_31_7_k10_lam05.tsv"
+log_file = "c4_5_8_random_k100_lam01_trig345.tsv"
 desired_response = "The capital of Scotland is Glasgow."
 
 # Load queries
@@ -81,7 +81,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
     fout.write(
         "trigger_len\tprefix_len\tsuffix_len\ttrial\ttrigger\tprefix\tllm_suffix\titerations\t"
         "triggered_rank\tclean_rank\t"
-        "trigger_top10\tclean_top10\ttrigger_top100\tclean_top100\n"
+        "trigger_top1\tclean_top1\ttrigger_top10\tclean_top10\ttrigger_top100\tclean_top100\n"
     )
 
     for trigger_len in trigger_lengths:
@@ -99,9 +99,9 @@ with open(log_file, "w", encoding="utf-8") as fout:
                         prefix_len=prefix_len,
                         suffix_len=suffix_len,
                         suffix_ids=suffix_ids,
-                        top_k=10,
+                        top_k=100,
                         max_steps=1000,
-                        lambda_reg=0.5,
+                        lambda_reg=0.1,
                         patience=20,
                         batch_size=32
                     )
@@ -147,6 +147,8 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     # Metrics
                     avg_triggered_rank = np.mean(triggered_ranks)
                     avg_clean_rank = np.mean(clean_ranks)
+                    trig_top1 = np.mean([r <= 1 for r in triggered_ranks]) * 100
+                    clean_top1 = np.mean([r <= 1 for r in clean_ranks]) * 100
                     trig_top10 = np.mean([r <= 10 for r in triggered_ranks]) * 100
                     clean_top10 = np.mean([r <= 10 for r in clean_ranks]) * 100
                     trig_top100 = np.mean([r <= 100 for r in triggered_ranks]) * 100
@@ -157,6 +159,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                         f"{trigger_len}\t{prefix_len}\t{suffix_len}\t{trial_index}\t"
                         f"{trigger_text}\t{prefix_text}\t{llm_suffix_text}\t{n_iter}\t"
                         f"{avg_triggered_rank:.2f}\t{avg_clean_rank:.2f}\t"
+                        f"{trig_top1:.1f}\t{clean_top1:.1f}\t"
                         f"{trig_top10:.1f}\t{clean_top10:.1f}\t{trig_top100:.1f}\t{clean_top100:.1f}"
                     )
                     print(log_line)
