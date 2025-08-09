@@ -106,10 +106,11 @@ default
 
 ### files
 
-results: `./results/c4_5_8_random_k100_lam01_trig345.tsv`
+results: `./results/c4_6_8_random_k100_lam01_trig345.tsv`
 
-log: `./logs/log_c4_5_8_random_k100_lam01_trig345.txt`
+log: `./logs/log_c4_6_8_random_k100_lam01_trig345.txt`
 
 ### status
 
 complete
+
