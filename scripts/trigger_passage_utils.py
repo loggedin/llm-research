@@ -33,8 +33,19 @@ class JointOptimiser(BaseRetriever):
         # Register gradient capture hooks for query and passage embedding layers
         self.query_grads = {}
         self.passage_grads = {}
-        self.model.embeddings.word_embeddings.register_full_backward_hook(self._capture_query_grad)
-        self.model.embeddings.word_embeddings.register_full_backward_hook(self._capture_passage_grad)
+
+        # Use a single forward hook plus a role flag to disambiguate query vs passage
+        self._grad_role = None          # "query" or "passage" set immediately before each forward
+        self._query_emb_out = None      # tensor captured from embeddings forward for queries
+        self._passage_emb_out = None    # tensor captured from embeddings forward for passages
+
+        def _forward_capture(module, inputs, output):
+            if self._grad_role == "query":
+                self._query_emb_out = output
+            elif self._grad_role == "passage":
+                self._passage_emb_out = output
+
+        self.model.embeddings.word_embeddings.register_forward_hook(_forward_capture)
 
     def _capture_query_grad(self, module, grad_in, grad_out) -> None:
         """
@@ -123,10 +134,17 @@ class JointOptimiser(BaseRetriever):
             # Build and encode triggered queries with gradients
             trigger_text = self.tokenizer.decode(trigger_ids, skip_special_tokens=True)
             triggered_queries = [self.insert_trigger(q, trigger_text, location=location) for q in batch]
+
+            # Tag the forward so the hook knows this is the query path
+            self._grad_role = "query"
             triggered_embs = self.encode_query(triggered_queries, require_grad=True)
 
-            # Encode poisoned passage with gradients
+            # Tag the forward so the hook knows this is the passage path
+            self._grad_role = "passage"
             passage_emb = self.encode_passage(passage_ids, attention_mask, require_grad=True)
+
+            # Reset role to avoid accidental captures elsewhere
+            self._grad_role = None
 
             # Compute similarity to poisoned passage
             sim_pos = self.compute_similarity(triggered_embs, passage_emb).squeeze(1)
@@ -137,10 +155,18 @@ class JointOptimiser(BaseRetriever):
 
             # Backpropagate loss to get token gradients
             self.model.zero_grad()
-            loss.backward()
 
-            grad_trig = self.query_grads["last"]
-            grad_pass = self.passage_grads["last"]
+            # Compute grads w.r.t. the specific embedding outputs captured
+            grad_trig = torch.autograd.grad(
+                loss, self._query_emb_out, retain_graph=True, allow_unused=True
+            )[0]
+            grad_pass = torch.autograd.grad(
+                loss, self._passage_emb_out, retain_graph=False, allow_unused=True
+            )[0]
+
+            # Safety: if for any reason grads are not available, skip this step
+            if grad_trig is None or grad_pass is None:
+                continue
 
             if random.random() < 0.2:
                 # Update a single token in the trigger (20% of steps)
@@ -169,7 +195,16 @@ class JointOptimiser(BaseRetriever):
 
             else:
                 # Update a single token in the poisoned passage (80% of steps)
-                max_pos = min(grad_pass.size(1), passage_ids.size(1)) - 1
+
+                # Robust index selection even if grad/pass lengths differ
+                seq_len_grad = grad_pass.size(1) if grad_pass.dim() >= 2 else 0
+                seq_len_tokens = passage_ids.size(1)
+                if seq_len_grad == 0 or seq_len_tokens == 0:
+                    continue
+                max_pos = min(seq_len_grad, seq_len_tokens) - 1
+                if max_pos < 0:
+                    continue
+
                 pos = random.randint(0, max_pos)
                 grad_vec = grad_pass[:, pos, :].mean(dim=0)
                 candidates = self.generate_hotflip_candidates(grad_vec, top_k)
@@ -193,11 +228,20 @@ class JointOptimiser(BaseRetriever):
 
             # Validation
             val_clean_embs = self.encode_query(val_queries, require_grad=False)
-            val_triggered_queries = [self.insert_trigger(q, trigger_text, location=location) for q in val_queries]
+
+            # Use the current trigger text
+            trigger_text = self.tokenizer.decode(trigger_ids, skip_special_tokens=True)
+            val_triggered_queries = [
+                self.insert_trigger(q, trigger_text, location=location) for q in val_queries
+            ]
             val_triggered_embs = self.encode_query(val_triggered_queries, require_grad=False)
 
-            val_sim_pos = self.compute_similarity(val_triggered_embs, passage_emb).squeeze(1).mean().item()
-            val_sim_neg = self.compute_similarity(val_clean_embs, passage_emb).squeeze(1).mean().item()
+            # Re-encode the possibly updated passage
+            passage_emb_val = self.encode_passage(passage_ids, attention_mask, require_grad=False)
+
+            # Compute validation metric
+            val_sim_pos = self.compute_similarity(val_triggered_embs, passage_emb_val).squeeze(1).mean().item()
+            val_sim_neg = self.compute_similarity(val_clean_embs, passage_emb_val).squeeze(1).mean().item()
             val_metric = -val_sim_pos + lambda_reg * val_sim_neg
 
             if val_metric < best_metric:
