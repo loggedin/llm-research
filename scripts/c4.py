@@ -43,16 +43,16 @@ if torch.cuda.is_available():
 joint_opt = JointMisinformationOptimiser(
     retriever_name="facebook/contriever",
     llm_name="meta-llama/Llama-2-7b-chat-hf",
-    device=torch.device("cuda:5"),
+    device=torch.device("cuda"),
     seed=seed
 )
 
 # Define experiment parameters
-trigger_lengths = [3, 4, 5]
+trigger_lengths = [1, 2, 3, 4, 5]
 prefix_lengths = [5, 10, 20, 30]
-suffix_lens = [50, 100]
+suffix_lens = [50]
 num_trials = 25
-log_file = "c4_5_8_random_k100_lam01_trig345.tsv"
+log_file = "c4_13_8_random_k50_lam01.tsv"
 desired_response = "The capital of Scotland is Glasgow."
 
 # Load queries
@@ -99,7 +99,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                         prefix_len=prefix_len,
                         suffix_len=suffix_len,
                         suffix_ids=suffix_ids,
-                        top_k=100,
+                        top_k=50,
                         max_steps=1000,
                         lambda_reg=0.1,
                         patience=20,
