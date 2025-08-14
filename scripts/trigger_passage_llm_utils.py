@@ -44,8 +44,18 @@ class JointMisinformationOptimiser(BaseRetriever):
         # Gradient capture hooks
         self.query_grads = {}
         self.passage_grads = {}
-        self.model.embeddings.word_embeddings.register_full_backward_hook(self._capture_query_grad)
-        self.model.embeddings.word_embeddings.register_full_backward_hook(self._capture_passage_grad)
+        # Replace backward hooks with a forward hook + role flag to disambiguate sources
+        self._grad_role = None
+        self._query_emb_out = None
+        self._passage_emb_out = None
+
+        def _forward_capture(module, inputs, output):
+            if self._grad_role == "query":
+                self._query_emb_out = output
+            elif self._grad_role == "passage":
+                self._passage_emb_out = output
+
+        self.model.embeddings.word_embeddings.register_forward_hook(_forward_capture)
 
     def _capture_query_grad(self, module, grad_in, grad_out) -> None:
         """
@@ -194,20 +204,31 @@ class JointMisinformationOptimiser(BaseRetriever):
 
             trigger_text = self.tokenizer.decode(trigger_ids, skip_special_tokens=True)
             triggered_batch = [self.insert_trigger(q, trigger_text, location=location) for q in batch]
+
+            # Tag forwards so the forward hook captures the right tensors
+            self._grad_role = "query"
             triggered_embs = self.encode_query(triggered_batch, require_grad=True)
 
             full_passage_ids = torch.cat([prefix_ids, suffix_ids], dim=1)
+            self._grad_role = "passage"
             passage_emb = self.encode_passage(full_passage_ids, attention_mask, require_grad=True)
+            self._grad_role = None
 
             sim_pos = self.compute_similarity(triggered_embs, passage_emb).squeeze(1)
             sim_neg = self.compute_similarity(clean_embs, passage_emb).squeeze(1)
             loss = -sim_pos.mean() + lambda_reg * sim_neg.mean()
 
             self.model.zero_grad()
-            loss.backward()
 
-            grad_trig = self.query_grads["last"]
-            grad_pass = self.passage_grads["last"]
+            # Compute grads explicitly w.r.t. the captured embedding outputs
+            grad_trig = torch.autograd.grad(
+                loss, self._query_emb_out, retain_graph=True, allow_unused=True
+            )[0]
+            grad_pass = torch.autograd.grad(
+                loss, self._passage_emb_out, retain_graph=False, allow_unused=True
+            )[0]
+            if grad_trig is None or grad_pass is None:
+                continue
 
             if random.random() < 0.2:
                 # Trigger update (20% of steps)
@@ -223,7 +244,8 @@ class JointMisinformationOptimiser(BaseRetriever):
                     trial_text = self.tokenizer.decode(trial_ids, skip_special_tokens=True)
                     trial_batch = [self.insert_trigger(q, trial_text, location=location) for q in batch]
                     trial_embs = self.encode_query(trial_batch, require_grad=False)
-                    score = -trial_embs.mean(dim=0).dot(passage_emb.squeeze(0)) + lambda_reg * sim_neg.mean().item()
+                    sim_pos_trial = self.compute_similarity(trial_embs, passage_emb).squeeze(1).mean().item()
+                    score = -sim_pos_trial + lambda_reg * sim_neg.mean().item()
                     if score < best_score:
                         best_score = score
                         best_token = cand
