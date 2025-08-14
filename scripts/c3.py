@@ -44,7 +44,7 @@ if torch.cuda.is_available():
 # Initialise the joint optimiser
 joint_opt = JointOptimiser(
     retriever_name="facebook/contriever",
-    device="cuda:5",
+    device="cuda",
     seed=seed
 )
 
@@ -52,7 +52,7 @@ joint_opt = JointOptimiser(
 trigger_lengths = [1, 2, 3, 4, 5]
 passage_lengths = [20, 30, 40, 50]
 num_trigger_passage_pairs = 25
-log_file = "c3_27_7_random_k100_lam05.tsv"
+log_file = "c3_14_8_random_k10_lam05.tsv"
 
 # Load training and test queries
 with open("./nq/queries.jsonl") as f:
@@ -86,7 +86,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     trigger_len=trigger_length,
                     location='random',
                     passage_len=passage_length,
-                    top_k=100,
+                    top_k=10,
                     max_steps=1000,
                     lambda_reg=0.5
                 )
