@@ -44,7 +44,7 @@ trigger_opt = TriggerOptimiser(
     retriever_name="facebook/contriever",
     corpus_emb_path="corpus_embeddings_10000.pt",
     corpus_jsonl_path="./nq/corpus.jsonl",
-    device="cuda:0",
+    device="cuda",
     seed=seed
 )
 
