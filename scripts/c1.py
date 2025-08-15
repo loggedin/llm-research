@@ -44,7 +44,7 @@ bad_rag = BadRAG(
     retriever_name="facebook/contriever",
     corpus_emb_path="corpus_embeddings_10000.pt",
     corpus_jsonl_path="./nq/corpus.jsonl",
-    device="cuda:2",
+    device="cuda",
     seed=seed
 )
 
