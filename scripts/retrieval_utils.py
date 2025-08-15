@@ -29,7 +29,7 @@ class BaseRetriever:
             device (torch.device): PyTorch device to use.
             seed (int): Random seed for reproducibility.
         """
-        self.device = device or torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+        self.device = device or torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
         # Set random seeds for reproducibility
         random.seed(seed)
