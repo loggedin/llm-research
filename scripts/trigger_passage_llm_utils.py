@@ -275,17 +275,24 @@ class JointMisinformationOptimiser(BaseRetriever):
 
                 prefix_ids[0, pos] = best_token
 
-            # Validation
+            # Validation: use the UPDATED trigger and UPDATED prefix+suffix
             val_clean = self.encode_query(val_queries, require_grad=False)
+
+            # Re-decode the *current* trigger AFTER any updates this step
+            trigger_text_val = self.tokenizer.decode(trigger_ids, skip_special_tokens=True)
             val_triggered = self.encode_query(
-                [self.insert_trigger(q, trigger_text, location=location) for q in val_queries],
+                [self.insert_trigger(q, trigger_text_val, location=location) for q in val_queries],
                 require_grad=False
             )
+
+            # Rebuild and re-encode the current poisoned passage (prefix just updated)
             full_val = torch.cat([prefix_ids, suffix_ids], dim=1)
             val_emb = self.encode_passage(full_val, attention_mask, require_grad=False)
+
+            # Compute validation metric
             val_sim_pos = self.compute_similarity(val_triggered, val_emb).squeeze(1).mean().item()
             val_sim_neg = self.compute_similarity(val_clean, val_emb).squeeze(1).mean().item()
-            val_metric = -val_sim_pos + lambda_reg * val_sim_neg
+            val_metric  = -val_sim_pos + lambda_reg * val_sim_neg
 
             if val_metric < best_metric:
                 best_metric = val_metric
