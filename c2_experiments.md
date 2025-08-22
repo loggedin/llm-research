@@ -16,9 +16,9 @@
 
 ### files
 
-results: `./results/c2_26_7_random.tsv`
+results: `./results/c2_26_7_random_k10_lam05.tsv`
 
-log: `./logs/log_c2_26_7_random.txt`
+log: `./logs/log_c2_26_7_random_k10_lam05.txt`
 
 ### status
 
@@ -40,9 +40,9 @@ complete
 
 ### files
 
-results: `./results/c2_26_7_end.tsv`
+results: `./results/c2_26_7_end_k10_lam05.tsv`
 
-log: `./logs/log_c2_26_7_end.txt`
+log: `./logs/log_c2_26_7_end_k10_lam05.txt`
 
 ### status
 
