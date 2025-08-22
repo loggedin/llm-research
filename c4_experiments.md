@@ -1,6 +1,6 @@
 # C4 - experiment log
 
-## experiment 1 - 12 / 08 / 25
+## experiment 1 - 15 / 08 / 25
 
 ### `c4.py` parameters
 
@@ -20,25 +20,17 @@
 
 `lambda_reg=0.5`
 
-### `trigger_passage_llm_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
-
 ### files
 
-results: `./results/c4_12_8_random_k10_lam05.tsv`
+results: `./results/c4_15_8_random_k10_lam05.tsv`
 
-log: `./logs/log_c4_12_8_random_k10_lam05.txt`
+log: `./logs/log_c4_15_8_random_k10_lam05.txt`
 
 ### status
 
 complete
 
-## experiment 2 - 13 / 08 / 25
+## experiment 2 - 16 / 08 / 25
 
 ### `c4.py` parameters
 
@@ -58,19 +50,11 @@ complete
 
 `lambda_reg=0.1`
 
-### `trigger_passage_llm_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
-
 ### files
 
-results: `./results/c4_13_8_random_k50_lam01.tsv`
+results: `./results/c4_16_8_random_k50_lam01.tsv`
 
-log: `./logs/log_c4_13_8_random_k50_lam01.txt`
+log: `./logs/log_c4_16_8_random_k50_lam01.txt`
 
 ### status
 
