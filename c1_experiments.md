@@ -14,14 +14,6 @@
 
 `location='random'`
 
-### `badrag_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
-
 ### files
 
 results: `./results/c1_25_7_passage_length.tsv`
@@ -32,7 +24,55 @@ log: `./logs/log_c1_25_7_passage_length.txt`
 
 complete
 
-## experiment 2 - 27 / 07 / 25
+## experiment 2 - 17 / 08 / 25
+
+### `c1.py` parameters
+
+`seed = 123`
+
+`num_triggers = 25`
+
+`num_passages_per_trigger = 5`
+
+`sequence_lengths = [110, 120, 130, 140, 150, 160, 170]`
+
+`location='random'`
+
+### files
+
+results: `./results/c1_17_8_passage_length_2.tsv`
+
+log: `./logs/log_c1_17_8_passage_length_2.txt`
+
+### status
+
+complete
+
+## experiment 3 - 19 / 08 / 25
+
+### `c1.py` parameters
+
+`seed = 123`
+
+`num_triggers = 25`
+
+`num_passages_per_trigger = 5`
+
+`sequence_lengths = [180, 190, 200]`
+
+`location='random'`
+
+### files
+
+results: `./results/c1_19_8_passage_length_3.tsv`
+
+log: `./logs/log_c1_19_8_passage_length_3.txt`
+
+### status
+
+complete
+
+## experiment 4 - 27 / 07 / 25
 
 ### `c1.py` parameters
 
@@ -45,14 +85,6 @@ complete
 `sequence_lengths = [50]`
 
 `location='random'`
-
-### `badrag_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
 
 ### files
 
