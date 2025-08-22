@@ -2,7 +2,7 @@ import json
 import numpy as np
 import random
 import torch
-from badrag_utils import BadRAG
+from c1_utils import BadRAG
 
 
 def get_poison_rank(
@@ -51,8 +51,8 @@ bad_rag = BadRAG(
 # Define experiment parameters
 num_triggers = 25
 num_passages_per_trigger = 5
-sequence_lengths = [180, 190, 200]
-log_file = "c1_19_8_passage_length_3.tsv"
+sequence_lengths = [5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200]
+log_file = "c1_25_7_random_k10_lam05_passage_length.tsv"
 
 # Select alphabetic, non-special trigger tokens from vocab
 vocab = bad_rag.tokenizer.get_vocab()
@@ -109,6 +109,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     triggered_query_embs=triggered_train_embs,
                     passage_len=sequence_length,
                     top_k=10,
+                    lambda_reg=0.5,
                     max_steps=1000
                 )
 
