@@ -2,7 +2,7 @@ import json
 import random
 import numpy as np
 import torch
-from trigger_utils import TriggerOptimiser
+from c2_utils import TriggerOptimiser
 
 
 def get_poison_rank(
@@ -52,7 +52,7 @@ trigger_opt = TriggerOptimiser(
 num_poisons = 25
 trigger_lengths = [1, 2, 3, 4, 5]
 num_triggers_per_passage = 5
-log_file = "c2_26_7_random.tsv"
+log_file = "c2_26_7_random_k10_lam05.tsv"
 min_word_count = 25
 
 # Load training and testing queries
@@ -117,6 +117,7 @@ with open(log_file, "w", encoding="utf-8") as fout:
                     trigger_len=trigger_length,
                     location='random',
                     top_k=10,
+                    lambda_reg=0.5,
                     max_steps=1000
                 )
 
