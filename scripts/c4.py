@@ -52,7 +52,7 @@ trigger_lengths = [1, 2, 3, 4, 5]
 prefix_lengths = [5, 10, 20, 30]
 suffix_lens = [50]
 num_trials = 25
-log_file = "c4_13_8_random_k50_lam01.tsv"
+log_file = "c4_16_8_random_k50_lam01.tsv"
 desired_response = "The capital of Scotland is Glasgow."
 
 # Load queries
