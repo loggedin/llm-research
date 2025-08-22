@@ -14,14 +14,6 @@
 
 `location='random'`
 
-### `trigger_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
-
 ### files
 
 results: `./results/c2_26_7_random.tsv`
@@ -45,14 +37,6 @@ complete
 `num_triggers_per_passage = 5`
 
 `location='end'`
-
-### `trigger_utils.py` parameters
-
-default
-
-### `retriever_utils.py` parameters
-
-default
 
 ### files
 
