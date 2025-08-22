@@ -2,7 +2,7 @@ import json
 import numpy as np
 import random
 import torch
-from trigger_passage_llm_utils import JointMisinformationOptimiser
+from c4_utils import JointMisinformationOptimiser
 
 
 def get_poison_rank(
