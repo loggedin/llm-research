@@ -16,9 +16,9 @@
 
 ### files
 
-results: `./results/c1_25_7_passage_length.tsv`
+results: `./results/c1_25_7_random_k10_lam05_passage_length.tsv`
 
-log: `./logs/log_c1_25_7_passage_length.txt`
+log: `./logs/log_c1_25_7_random_k10_lam05_passage_length.txt`
 
 ### status
 
@@ -40,9 +40,9 @@ complete
 
 ### files
 
-results: `./results/c1_17_8_passage_length_2.tsv`
+results: `./results/c1_17_8_random_k10_lam05_passage_length_2.tsv`
 
-log: `./logs/log_c1_17_8_passage_length_2.txt`
+log: `./logs/log_c1_17_8_random_k10_lam05_passage_length_2.txt`
 
 ### status
 
@@ -64,9 +64,9 @@ complete
 
 ### files
 
-results: `./results/c1_19_8_passage_length_3.tsv`
+results: `./results/c1_19_8_random_k10_lam05_passage_length_3.tsv`
 
-log: `./logs/log_c1_19_8_passage_length_3.txt`
+log: `./logs/log_c1_19_8_random_k10_lam05_passage_length_3.txt`
 
 ### status
 
@@ -88,9 +88,9 @@ complete
 
 ### files
 
-results: `./results/c1_27_7_passage_count.tsv`
+results: `./results/c1_27_7_random_k10_lam05_passage_count.tsv`
 
-log: `./logs/log_c1_27_7_passage_count.txt`
+log: `./logs/log_c1_27_7_random_k10_lam05_passage_count.txt`
 
 ### status
 
