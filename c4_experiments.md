@@ -10,7 +10,7 @@
 
 `prefix_lengths = [5, 10, 20, 30]`
 
-`suffix_lens = [50, 100]`
+`suffix_lens = [50]`
 
 `num_trials = 25`
 
@@ -40,7 +40,7 @@ complete
 
 `prefix_lengths = [5, 10, 20, 30]`
 
-`suffix_lens = [50, 100]`
+`suffix_lens = [50]`
 
 `num_trials = 25`
 
@@ -59,3 +59,4 @@ log: `./logs/log_c4_16_8_random_k50_lam01.txt`
 ### status
 
 complete
+
