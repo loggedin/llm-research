@@ -20,7 +20,8 @@ conda env create -f environment.yml
 conda activate llm-research
 ```
 
+Download the Natural Questions dataset from [https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing](https://drive.google.com/drive/folders/1ORuqznzMf9Xv6y7epjdIVl28PwgUKZnn?usp=sharing).
+
 ## License
 
 Stealthy Backdoors in RAG-Based LLM Systems © 2025 by Michael Hudson is licensed under CC BY 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
-
