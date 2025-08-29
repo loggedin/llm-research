@@ -72,7 +72,31 @@ log: `./logs/log_c1_19_8_random_k10_lam05_passage_length_3.txt`
 
 complete
 
-## experiment 4 - 27 / 07 / 25
+## experiment 4 - 22 / 08 / 25
+
+### `c1.py` parameters
+
+`seed = 123`
+
+`num_triggers = 25`
+
+`num_passages_per_trigger = 5`
+
+`sequence_lengths = [210, 220, 230]`
+
+`location='random'`
+
+### files
+
+results: `./results/c1_22_8_random_k10_lam05_passage_length_4.tsv`
+
+log: `./logs/log_c1_22_8_random_k10_lam05_passage_length_4.txt`
+
+### status
+
+complete
+
+## experiment 5 - 27 / 07 / 25
 
 ### `c1.py` parameters
 
